@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "data": "2026-03-16",
+        "descricao": "Aporte Inicial",
+        "categoria": "Aporte",
+        "valor": 173601.59,
+        "tipo": "Crédito",
+        "saldo": 173601.59,
+        "anexos": []
+    },
+    {
+        "id": 2,
+        "data": "2026-04-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1188.51,
+        "tipo": "Crédito",
+        "saldo": 174790.10,
+        "anexos": []
+    },
+    {
+        "id": 3,
+        "data": "2026-04-02",
+        "descricao": "Compra de Telhas Esmaltadas",
+        "categoria": "Material",
+        "valor": -7611.36,
+        "tipo": "Débito",
+        "saldo": 167178.74,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "http://localhost/anexos/telhas-nf.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/telhas-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "data": "2026-04-06",
+        "descricao": "Compra de Piso Elizabeth",
+        "categoria": "Material",
+        "valor": -13162.76,
+        "tipo": "Débito",
+        "saldo": 154015.98,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Cotação",
+                "url": "http://localhost/anexos/piso-cotacao.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Dados de Pagamento",
+                "url": "http://localhost/anexos/piso-dados-conta.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/piso-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "data": "2026-04-07",
+        "descricao": "Resgate CDB Pine XP Priscilla",
+        "categoria": "Aporte",
+        "valor": 6755.85,
+        "tipo": "Crédito",
+        "saldo": 160771.83,
+        "anexos": []
+    },
+    {
+        "id": 6,
+        "data": "2026-04-08",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 15000.00,
+        "tipo": "Crédito",
+        "saldo": 175771.83,
+        "anexos": []
+    },
+    {
+        "id": 7,
+        "data": "2026-04-16",
+        "descricao": "Frete Telhas",
+        "categoria": "Frete",
+        "valor": -5526.00,
+        "tipo": "Débito",
+        "saldo": 170245.83,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "http://localhost/anexos/telha-frete-conversa.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento - Frete",
+                "url": "http://localhost/anexos/telha-frete-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "data": "2026-04-16",
+        "descricao": "Comissão Vendedor",
+        "categoria": "Comissão",
+        "valor": -1958.00,
+        "tipo": "Débito",
+        "saldo": 168287.83,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "http://localhost/anexos/telha-frete-conversa.png"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento - Comissão",
+                "url": "http://localhost/anexos/telha-comissao-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "data": "2026-04-27",
+        "descricao": "Descarregamento das telhas",
+        "categoria": "Serviços",
+        "valor": -600.00,
+        "tipo": "Débito",
+        "saldo": 167687.83,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Comprovante de Pagamento - Chapas",
+                "url": "http://localhost/anexos/telha-descarregamento-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "data": "2026-04-30",
+        "descricao": "Aluguel da Casa em Macaíba",
+        "categoria": "Mão de Obra",
+        "valor": -350.00,
+        "tipo": "Débito",
+        "saldo": 167337.83,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/casa-aluguel-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "data": "2026-05-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1696.79,
+        "tipo": "Crédito",
+        "saldo": 169034.62,
+        "anexos": []
+    },
+    {
+        "id": 11,
+        "data": "2026-05-07",
+        "descricao": "Frete Piso Elizabeth",
+        "categoria": "Frete",
+        "valor": -2045.00,
+        "tipo": "Débito",
+        "saldo": 166989.62,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "http://localhost/anexos/frete-piso-boleto.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/frete-piso-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "data": "2026-05-07",
+        "descricao": "Frete primeira mobilização de obra",
+        "categoria": "Frete",
+        "valor": -400.00,
+        "tipo": "Débito",
+        "saldo": 166589.62,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "http://localhost/anexos/frete-primeira-mobilizacao.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/frete-primeira-mobilizacao-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "data": "2026-05-07",
+        "descricao": "Tábuas na MAC Madeira",
+        "categoria": "Material",
+        "valor": -2388.44,
+        "tipo": "Débito",
+        "saldo": 164201.18,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Orçamento",
+                "url": "http://localhost/anexos/tabuas-pre-venda.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/tabuas-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "data": "2026-05-08",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 15000.00,
+        "tipo": "Crédito",
+        "saldo": 179201.18,
+        "anexos": []
+    },
+    {
+        "id": 15,
+        "data": "2026-05-14",
+        "descricao": "Tijolos na Carvalho e Gomes - 9k tijolos",
+        "categoria": "Material",
+        "valor": -9000.00,
+        "tipo": "Débito",
+        "saldo": 170201.18,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "http://localhost/anexos/tijolos-9k-recibo.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Conversa",
+                "url": "http://localhost/anexos/tijolos-9k-conversa.jpeg"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/tijolos-9k-comprovante.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "data": "2026-05-15",
+        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "categoria": "Material",
+        "valor": -112.01,
+        "tipo": "Débito",
+        "saldo": 170089.17,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "http://localhost/anexos/material1-nf.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "http://localhost/anexos/material1-boleto.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/material1-comprovante.pdf"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "data": "2026-05-15",
+        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "categoria": "Material",
+        "valor": -761.36,
+        "tipo": "Débito",
+        "saldo": 169327.81,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "http://localhost/anexos/material2-nf.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "http://localhost/anexos/material2-boleto.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "http://localhost/anexos/material2-comprovante.pdf"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "data": "2026-05-15",
+        "descricao": "Resgate Ações - BBAS3 e BBSE3",
+        "categoria": "Aporte",
+        "valor": 34710.00,
+        "tipo": "Crédito",
+        "saldo": 204037.81,
+        "anexos": []
+    },
+    {
+        "id": 18,
+        "data": "2026-05-15",
+        "descricao": "Indenização CNH",
+        "categoria": "Aporte",
+        "valor": 13785.00,
+        "tipo": "Crédito",
+        "saldo": 217822.81,
+        "anexos": []
+    }
+]
