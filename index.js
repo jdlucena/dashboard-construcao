@@ -5,6 +5,7 @@
 const CONFIG = {
     precoMetroQuadrado: 3200,
     metrosQuadrados: 165,
+    url_padrao: location.origin,
     coresCategorias: [
         'success',
         'primary',
@@ -672,12 +673,9 @@ document.addEventListener('click', function (event) {
     // sem anexos
     if (anexos.length === 0) {
 
-        modalBody.innerHTML = `
-        
+        modalBody.innerHTML = `        
             <div class="text-center text-secondary py-4">
-
                 Nenhum anexo encontrado.
-
             </div>
         `;
 
@@ -703,30 +701,21 @@ document.addEventListener('click', function (event) {
         item.innerHTML = `
         
             <div class="d-flex align-items-center gap-2">
-
                 <svg class="bi"
                     width="18"
                     height="18"
                     fill="currentColor">
-
                     <use xlink:href="#file-earmark-medical"></use>
-
                 </svg>
-
                 <span>
-
                     ${anexo.nome}
-
                 </span>
-
             </div>
 
-            <a href="${anexo.url}"
+            <a href="${CONFIG.url_padrao}${anexo.url}"
                 target="_blank"
                 class="btn btn-sm btn-primary">
-
                 Abrir
-
             </a>
         `;
 

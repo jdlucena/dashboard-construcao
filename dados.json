@@ -31,12 +31,12 @@
             {
                 "id": 1,
                 "nome": "Nota Fiscal",
-                "url": "http://localhost/anexos/telhas-nf.pdf"
+                "url": "/anexos/telhas-nf.pdf"
             },
             {
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/telhas-comprovante.jpeg"
+                "url": "/anexos/telhas-comprovante.jpeg"
             }
         ]
     },
@@ -52,17 +52,17 @@
             {
                 "id": 1,
                 "nome": "Cotação",
-                "url": "http://localhost/anexos/piso-cotacao.pdf"
+                "url": "/anexos/piso-cotacao.pdf"
             },
             {
                 "id": 2,
                 "nome": "Dados de Pagamento",
-                "url": "http://localhost/anexos/piso-dados-conta.pdf"
+                "url": "/anexos/piso-dados-conta.pdf"
             },
             {
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/piso-comprovante.jpeg"
+                "url": "/anexos/piso-comprovante.jpeg"
             }
         ]
     },
@@ -98,12 +98,12 @@
             {
                 "id": 1,
                 "nome": "Conversa",
-                "url": "http://localhost/anexos/telha-frete-conversa.png"
+                "url": "/anexos/telha-frete-conversa.png"
             },
             {
                 "id": 2,
                 "nome": "Comprovante de Pagamento - Frete",
-                "url": "http://localhost/anexos/telha-frete-comprovante.jpeg"
+                "url": "/anexos/telha-frete-comprovante.jpeg"
             }
         ]
     },
@@ -119,12 +119,12 @@
             {
                 "id": 1,
                 "nome": "Conversa",
-                "url": "http://localhost/anexos/telha-frete-conversa.png"
+                "url": "/anexos/telha-frete-conversa.png"
             },
             {
                 "id": 3,
                 "nome": "Comprovante de Pagamento - Comissão",
-                "url": "http://localhost/anexos/telha-comissao-comprovante.jpeg"
+                "url": "/anexos/telha-comissao-comprovante.jpeg"
             }
         ]
     },
@@ -140,7 +140,7 @@
             {
                 "id": 1,
                 "nome": "Comprovante de Pagamento - Chapas",
-                "url": "http://localhost/anexos/telha-descarregamento-comprovante.jpeg"
+                "url": "/anexos/telha-descarregamento-comprovante.jpeg"
             }
         ]
     },
@@ -156,7 +156,7 @@
             {
                 "id": 1,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/casa-aluguel-comprovante.jpeg"
+                "url": "/anexos/casa-aluguel-comprovante.jpeg"
             }
         ]
     },
@@ -182,12 +182,12 @@
             {
                 "id": 1,
                 "nome": "Boleto",
-                "url": "http://localhost/anexos/frete-piso-boleto.pdf"
+                "url": "/anexos/frete-piso-boleto.pdf"
             },
             {
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/frete-piso-comprovante.jpeg"
+                "url": "/anexos/frete-piso-comprovante.jpeg"
             }
         ]
     },
@@ -203,12 +203,12 @@
             {
                 "id": 1,
                 "nome": "Conversa",
-                "url": "http://localhost/anexos/frete-primeira-mobilizacao.png"
+                "url": "/anexos/frete-primeira-mobilizacao.png"
             },
             {
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/frete-primeira-mobilizacao-comprovante.jpeg"
+                "url": "/anexos/frete-primeira-mobilizacao-comprovante.jpeg"
             }
         ]
     },
@@ -224,12 +224,12 @@
             {
                 "id": 1,
                 "nome": "Orçamento",
-                "url": "http://localhost/anexos/tabuas-pre-venda.jpeg"
+                "url": "/anexos/tabuas-pre-venda.jpeg"
             },
             {
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/tabuas-comprovante.jpeg"
+                "url": "/anexos/tabuas-comprovante.jpeg"
             }
         ]
     },
@@ -255,17 +255,17 @@
             {
                 "id": 1,
                 "nome": "Recibo",
-                "url": "http://localhost/anexos/tijolos-9k-recibo.pdf"
+                "url": "/anexos/tijolos-9k-recibo.pdf"
             },
             {
                 "id": 2,
                 "nome": "Conversa",
-                "url": "http://localhost/anexos/tijolos-9k-conversa.jpeg"
+                "url": "/anexos/tijolos-9k-conversa.jpeg"
             },
             {
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/tijolos-9k-comprovante.jpeg"
+                "url": "/anexos/tijolos-9k-comprovante.jpeg"
             }
         ]
     },
@@ -281,17 +281,17 @@
             {
                 "id": 1,
                 "nome": "Nota Fiscal",
-                "url": "http://localhost/anexos/material1-nf.pdf"
+                "url": "/anexos/material1-nf.pdf"
             },
             {
                 "id": 2,
                 "nome": "Boleto",
-                "url": "http://localhost/anexos/material1-boleto.pdf"
+                "url": "/anexos/material1-boleto.pdf"
             },
             {
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/material1-comprovante.pdf"
+                "url": "/anexos/material1-comprovante.pdf"
             }
         ]
     },
@@ -307,17 +307,17 @@
             {
                 "id": 1,
                 "nome": "Nota Fiscal",
-                "url": "http://localhost/anexos/material2-nf.pdf"
+                "url": "/anexos/material2-nf.pdf"
             },
             {
                 "id": 2,
                 "nome": "Boleto",
-                "url": "http://localhost/anexos/material2-boleto.pdf"
+                "url": "/anexos/material2-boleto.pdf"
             },
             {
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
-                "url": "http://localhost/anexos/material2-comprovante.pdf"
+                "url": "/anexos/material2-comprovante.pdf"
             }
         ]
     },
