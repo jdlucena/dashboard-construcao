@@ -63,6 +63,11 @@
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/piso-comprovante.jpeg"
+            },
+            {
+                "id": 4,
+                "nome": "Conversa",
+                "url": "/anexos/piso-conversa.png"
             }
         ]
     },
@@ -110,7 +115,7 @@
     {
         "id": 7,
         "data": "2026-04-16",
-        "descricao": "Comissão Vendedor",
+        "descricao": "Comissão Vendedor Telhas",
         "categoria": "Comissão",
         "valor": -1958.00,
         "tipo": "Débito",
@@ -188,13 +193,18 @@
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/frete-piso-comprovante.jpeg"
+            },
+            {
+                "id": 3,
+                "nome": "Conversa",
+                "url": "/anexos/frete-piso-conversa.png"
             }
         ]
     },
     {
         "id": 12,
         "data": "2026-05-07",
-        "descricao": "Frete primeira mobilização de obra",
+        "descricao": "Frete Primeira Mobilização de Obra",
         "categoria": "Frete",
         "valor": -400.00,
         "tipo": "Débito",
@@ -272,7 +282,7 @@
     {
         "id": 16,
         "data": "2026-05-15",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -112.01,
         "tipo": "Débito",
@@ -298,7 +308,7 @@
     {
         "id": 16,
         "data": "2026-05-15",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -761.36,
         "tipo": "Débito",
