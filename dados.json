@@ -363,12 +363,12 @@
             {
                 "id": 1,
                 "nome": "Pedido",
-                "url": "/anexos/cimento-500-pedido.pdf"
+                "url": "/anexos/cimento-500-pedido.jpeg"
             },
             {
                 "id": 2,
                 "nome": "Comprovante",
-                "url": "/anexos/cimento-500-comprovante.pdf"
+                "url": "/anexos/cimento-500-comprovante.jpeg"
             }
         ]
     }
