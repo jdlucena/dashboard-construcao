@@ -350,5 +350,26 @@
         "tipo": "Crédito",
         "saldo": 217822.81,
         "anexos": []
+    },
+    {
+        "id": 19,
+        "data": "2026-05-20",
+        "descricao": "Cimento na Casa do Cimento - 500 sacos",
+        "categoria": "Material",
+        "valor": -18750.00,
+        "tipo": "Débito",
+        "saldo": 199072.81,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Pedido",
+                "url": "/anexos/cimento-500-pedido.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante",
+                "url": "/anexos/cimento-500-comprovante.pdf"
+            }
+        ]
     }
 ]
