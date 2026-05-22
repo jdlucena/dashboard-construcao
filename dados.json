@@ -371,5 +371,26 @@
                 "url": "/anexos/cimento-500-comprovante.jpeg"
             }
         ]
+    },
+    {
+        "id": 20,
+        "data": "2026-05-22",
+        "descricao": "2 geladeiras e 1 fogão usados",
+        "categoria": "Mão de Obra",
+        "valor": -1170.00,
+        "tipo": "Débito",
+        "saldo": 197902.81,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/geladeira-fogao-conversa.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante",
+                "url": "/anexos/geladeira-fogao-comprovante.jpeg"
+            }
+        ]
     }
 ]
