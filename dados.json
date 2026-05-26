@@ -409,8 +409,13 @@
             },
             {
                 "id": 2,
-                "nome": "Comprovante",
+                "nome": "Boleto",
                 "url": "/anexos/boleto58016.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante",
+                "url": "/anexos/comprovante505.pdf"
             }
         ]
     },
@@ -430,8 +435,13 @@
             },
             {
                 "id": 2,
-                "nome": "Comprovante",
+                "nome": "Boleto",
                 "url": "/anexos/boleto58293.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante",
+                "url": "/anexos/comprovante419.pdf"
             }
         ]
     }
