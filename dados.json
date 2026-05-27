@@ -152,7 +152,7 @@
     {
         "id": 9,
         "data": "2026-04-30",
-        "descricao": "Aluguel da Casa em Macaíba",
+        "descricao": "Aluguel da Casa em Macaíba (serventes)",
         "categoria": "Mão de Obra",
         "valor": -350.00,
         "tipo": "Débito",
@@ -444,5 +444,21 @@
                 "url": "/anexos/comprovante419.pdf"
             }
         ]
-    }
+    },
+    {
+        "id": 22,
+        "data": "2026-05-26",
+        "descricao": "Aluguel da Casa em Macaíba (serventes)",
+        "categoria": "Mão de Obra",
+        "valor": -350.00,
+        "tipo": "Débito",
+        "saldo": 196627.56,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/comprovante-aluguel-maio.jpeg"
+            }
+        ]
+    },
 ]
