@@ -470,5 +470,31 @@
         "tipo": "Crédito",
         "saldo": 201627.56,
         "anexos": []
+    },
+    {
+        "id": 24,
+        "data": "2026-05-28",
+        "descricao": "Ferragem Armada",
+        "categoria": "Material",
+        "valor": -23595.00,
+        "tipo": "Débito",
+        "saldo": 178032.56,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/ferragem-nota.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/ferragem-boleto.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ferragem-comprovante.pdf"
+            }
+        ]
     }
 ]
