@@ -460,5 +460,15 @@
                 "url": "/anexos/comprovante-aluguel-maio.jpeg"
             }
         ]
+    },
+    {
+        "id": 23,
+        "data": "2026-05-27",
+        "descricao": "Aporte Priscilla",
+        "categoria": "Aporte",
+        "valor": 5000.00,
+        "tipo": "Crédito",
+        "saldo": 201627.56,
+        "anexos": []
     }
 ]
