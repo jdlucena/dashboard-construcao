@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="favicon.png" rel="shortcut icon" />
+    <title>Dashboard Casa Lagoa do Mato</title>
+    <link href="https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    <link href="index.css" rel="stylesheet">
+    <style>
+        #status {
+            text-align: center;
+            font-size: 18px;
+            color: #666;
+            padding: 30px;
+        }
+
+        .galeria {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 18px;
+        }
+
+        .card {
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            background: var(--card);
+            box-shadow: var(--shadow);
+            transition: .25s;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+        }
+
+        .card img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .nome {
+            padding: 10px;
+            text-align: center;
+            font-size: 13px;
+            color: #444;
+            word-break: break-word;
+        }
+
+        .video-icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: rgba(0, 0, 0, .55);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 28px;
+            pointer-events: none;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        @media(max-width:768px) {
+
+            .galeria {
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            }
+
+            .card img {
+                height: 140px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <main>
+        <!-- Ícones SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+            <symbol id="house-check" viewBox="0 0 16 16">
+                <path
+                    d="M7.293 1.5a1 1 0 0 1 1.414 0L11 3.793V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v3.293l2.354 2.353a.5.5 0 0 1-.708.708L8 2.207l-5 5V13.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 1 0 1h-4A1.5 1.5 0 0 1 2 13.5V8.207l-.646.647a.5.5 0 1 1-.708-.708z" />
+                <path
+                    d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m1.679-4.493-1.335 2.226a.75.75 0 0 1-1.174.144l-.774-.773a.5.5 0 0 1 .708-.707l.547.547 1.17-1.951a.5.5 0 1 1 .858.514" />
+            </symbol>
+            <symbol id="wallet2" viewBox="0 0 16 16">
+                <path
+                    d="M12.136.326A1.5 1.5 0 0 1 14 1.78V3h.5A1.5 1.5 0 0 1 16 4.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 13.5v-9a1.5 1.5 0 0 1 1.432-1.499zM5.562 3H13V1.78a.5.5 0 0 0-.621-.484zM1.5 4a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5z" />
+            </symbol>
+            <symbol id="coin" viewBox="0 0 16 16">
+                <path
+                    d="M5.5 9.511c.076.954.83 1.697 2.182 1.785V12h.6v-.709c1.4-.098 2.218-.846 2.218-1.932 0-.987-.626-1.496-1.745-1.76l-.473-.112V5.57c.6.068.982.396 1.074.85h1.052c-.076-.919-.864-1.638-2.126-1.716V4h-.6v.719c-1.195.117-2.01.836-2.01 1.853 0 .9.606 1.472 1.613 1.707l.397.098v2.034c-.615-.093-1.022-.43-1.114-.9zm2.177-2.166c-.59-.137-.91-.416-.91-.836 0-.47.345-.822.915-.925v1.76h-.005zm.692 1.193c.717.166 1.048.435 1.048.91 0 .542-.412.914-1.135.982V8.518z" />
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
+                <path d="M8 13.5a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11m0 .5A6 6 0 1 0 8 2a6 6 0 0 0 0 12" />
+            </symbol>
+            <symbol id="graph-up-arrow" viewBox="0 0 16 16">
+                <path fill-rule="evenodd"
+                    d="M0 0h1v15h15v1H0zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5" />
+            </symbol>
+            <symbol id="graph-down-arrow" viewBox="0 0 16 16">
+                <path fill-rule="evenodd"
+                    d="M0 0h1v15h15v1H0zm10 11.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-4a.5.5 0 0 0-1 0v2.6l-3.613-4.417a.5.5 0 0 0-.74-.037L7.06 8.233 3.404 3.206a.5.5 0 0 0-.808.588l4 5.5a.5.5 0 0 0 .758.06l2.609-2.61L13.445 11H10.5a.5.5 0 0 0-.5.5" />
+            </symbol>
+            <symbol id="file-earmark-medical" viewBox="0 0 16 16">
+                <path
+                    d="M7.5 5.5a.5.5 0 0 0-1 0v.634l-.549-.317a.5.5 0 1 0-.5.866L6 7l-.549.317a.5.5 0 1 0 .5.866l.549-.317V8.5a.5.5 0 1 0 1 0v-.634l.549.317a.5.5 0 1 0 .5-.866L8 7l.549-.317a.5.5 0 1 0-.5-.866l-.549.317zm-2 4.5a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1zm0 2a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1z" />
+                <path
+                    d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2M9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5z" />
+            </symbol>
+        </svg>
+        <!-- Header -->
+        <div class="container">
+            <header class="d-flex flex-wrap justify-content-center align-items-center py-3">
+                <div class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+                    <a href="index.html"
+                        class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2">
+                        <svg class="bi" width="1em" height="1em" aria-hidden="true" fill="currentColor">
+                            <use xlink:href="#house-check"></use>
+                        </svg>
+                    </a>
+                    <div class="d-grid ms-3">
+                        <span class="h4 mb-0">Casa Lagoa do Mato</span>
+                        <span class="fs-6 text-muted">Acompanhamento da Construção</span>
+                    </div>
+                </div>
+            </header>
+        </div>
+
+        <div class="container mb-3">
+            <div id="status" class="loading">
+                Carregando...
+            </div>
+            <div id="galeria" class="galeria"></div>
+        </div>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+    <script>
+
+        const usuario = "jdlucena";
+        const repositorio = "dashboard-construcao";
+        const pastaMidia = "midia";
+        const branch = "main";
+
+        const galeria = document.getElementById("galeria");
+        const status = document.getElementById("status");
+
+        const imagens = [
+            "jpg",
+            "jpeg",
+            "png",
+            "gif",
+            "webp",
+            "bmp",
+            "svg"
+        ];
+
+        const videos = [
+            "mp4",
+            "webm",
+            "mov",
+            "mkv",
+            "avi",
+            "ogg"
+        ];
+
+        fetch(
+            `https://api.github.com/repos/${usuario}/${repositorio}/contents/${pastaMidia}?ref=${branch}`
+        )
+            .then(r => r.json())
+            .then(arquivos => {
+
+                status.style.display = "none";
+
+                arquivos.forEach(arquivo => {
+
+                    if (arquivo.type !== "file")
+                        return;
+
+                    const nome = arquivo.name;
+
+                    const ext =
+                        nome.split(".").pop().toLowerCase();
+
+                    const nomeBase =
+                        nome.substring(
+                            0,
+                            nome.lastIndexOf(".")
+                        );
+
+                    const thumb =
+                        `https://cdn.jsdelivr.net/gh/${usuario}/${repositorio}@${branch}/thumbs/${nomeBase}.jpg`;
+
+                    const original =
+                        arquivo.download_url;
+
+                    let html = "";
+
+                    if (imagens.includes(ext)) {
+
+                        html = `
+                <a
+                    href="${original}"
+                    class="glightbox"
+                    data-gallery="galeria"
+                    data-title="${nome}"
+                >
+                    <div class="card">
+                        <img
+                            src="${thumb}"
+                            loading="lazy"
+                            decoding="async"
+                            fetchpriority="low"
+                            alt="${nome}">
+                        <div class="nome">
+                            ${nome}
+                        </div>
+                    </div>
+                </a>
+            `;
+                    }
+
+                    else if (videos.includes(ext)) {
+
+                        html = `
+                <a
+                    href="${original}"
+                    class="glightbox"
+                    data-gallery="galeria"
+                    data-type="video"
+                    data-title="${nome}"
+                >
+                    <div class="card">
+
+                        <img
+                            src="${thumb}"
+                            loading="lazy"
+                            decoding="async"
+                            fetchpriority="low"
+                            alt="${nome}">
+
+                        <div class="video-icon">
+                            ▶
+                        </div>
+
+                        <div class="nome">
+                            ${nome}
+                        </div>
+
+                    </div>
+                </a>
+            `;
+                    }
+
+                    if (html)
+                        galeria.insertAdjacentHTML(
+                            "beforeend",
+                            html
+                        );
+
+                });
+
+                GLightbox({
+
+                    selector: ".glightbox",
+
+                    touchNavigation: true,
+
+                    keyboardNavigation: true,
+
+                    loop: true,
+
+                    autoplayVideos: true,
+
+                    closeButton: true,
+
+                    plyr: {
+                        css:
+                            "https://cdn.plyr.io/3.7.8/plyr.css",
+                        js:
+                            "https://cdn.plyr.io/3.7.8/plyr.js"
+                    }
+
+                });
+
+            })
+            .catch(erro => {
+
+                console.error(erro);
+
+                status.innerHTML =
+                    "Erro ao carregar as mídias.";
+
+            });
+
+    </script>
+</body>
+
+</html>
