@@ -25,7 +25,7 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          npm install sharp ffmpeg-static fluent-ffmpeg
+          npm install sharp ffmpeg-static fluent-ffmpeg ffprobe-static
 
       - name: Gerar thumbnails
         run: node gerar-thumbs.js
