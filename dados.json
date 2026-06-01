@@ -522,5 +522,15 @@
                 "url": "/anexos/ComprovantePagamento2.pdf"
             }
         ]
+    },
+    {
+        "id": 26,
+        "data": "2026-06-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1481.32,
+        "tipo": "Crédito",
+        "saldo": 179392.75,
+        "anexos": []
     }
 ]
