@@ -42,8 +42,8 @@ function formatarMoeda(valor) {
 }
 
 function formatarData(data) {
-    return new Date(data)
-        .toLocaleDateString('pt-BR');
+    // return new Date(data).toLocaleDateString('pt-BR');
+    return data.split('-').reverse().join('/');
 }
 
 
@@ -781,7 +781,7 @@ function renderTabela(data) {
         row.innerHTML = `
         
             <td>
-                ${item.data}
+                ${formatarData(item.data)}
             </td>
 
             <td class="
