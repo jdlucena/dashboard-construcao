@@ -532,5 +532,48 @@
         "tipo": "Crédito",
         "saldo": 179392.75,
         "anexos": []
+    },
+    {
+        "id": 27,
+        "data": "2026-06-01",
+        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "categoria": "Material",
+        "valor": -578.98,
+        "tipo": "Débito",
+        "saldo": 178813.77,
+        "anexos": [{
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/24260544944974000107550110000594491746453671-nfe.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto_195364.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento.pdf"
+            }]
+    },
+    {
+        "id": 28,
+        "data": "2026-06-02",
+        "descricao": "Aço para o muro",
+        "categoria": "Material",
+        "valor": -1481.32,
+        "tipo": "Débito",
+        "saldo": 177832.45,
+        "anexos": [{
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/2C_pix.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/2C_pixcomprovante.jpeg"
+            }]
     }
 ]
