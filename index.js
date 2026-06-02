@@ -250,7 +250,8 @@ function renderChart2(data) {
 
     data.forEach(item => {
 
-        const dataItem = new Date(item.data);
+        // const dataItem = new Date(item.data);
+        const dataItem = new Date(item.data + 'T00:00:00');
 
         const mesAno = dataItem.toLocaleDateString('pt-BR', {
             month: 'long',
