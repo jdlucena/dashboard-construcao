@@ -281,8 +281,7 @@ function renderChart2(data) {
     });
 
     // categorias do eixo X
-    const categorias =
-        Object.keys(mesesMap);
+    const categorias = Object.keys(mesesMap);
 
     // série créditos
     const creditos =
