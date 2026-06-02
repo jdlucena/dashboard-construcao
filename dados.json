@@ -541,7 +541,8 @@
         "valor": -578.98,
         "tipo": "Débito",
         "saldo": 178813.77,
-        "anexos": [{
+        "anexos": [
+            {
                 "id": 1,
                 "nome": "Nota Fiscal",
                 "url": "/anexos/24260544944974000107550110000594491746453671-nfe.pdf"
@@ -555,7 +556,8 @@
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/ComprovantePagamento.pdf"
-            }]
+            }
+        ]
     },
     {
         "id": 28,
@@ -565,7 +567,8 @@
         "valor": -3901.81,
         "tipo": "Débito",
         "saldo": 174911.96,
-        "anexos": [{
+        "anexos": [
+            {
                 "id": 1,
                 "nome": "Nota Fiscal",
                 "url": "/anexos/2C_pix.pdf"
@@ -574,6 +577,7 @@
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/2C_pixcomprovante.jpeg"
-            }]
+            }
+        ]
     }
 ]
