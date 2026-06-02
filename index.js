@@ -781,7 +781,7 @@ function renderTabela(data) {
         row.innerHTML = `
         
             <td>
-                ${formatarData(item.data)}
+                ${item.data}
             </td>
 
             <td class="
