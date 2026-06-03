@@ -579,5 +579,31 @@
                 "url": "/anexos/2C_pixcomprovante.jpeg"
             }
         ]
+    },
+    {
+        "id": 29,
+        "data": "2026-06-03",
+        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "categoria": "Material",
+        "valor": -290.86,
+        "tipo": "Débito",
+        "saldo": 174621.10,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/NF66482-CANTOTEM.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto66482-CANTOTEM.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento0306.pdf"
+            }
+        ]
     }
 ]
