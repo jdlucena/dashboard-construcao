@@ -605,5 +605,15 @@
                 "url": "/anexos/ComprovantePagamento0306.pdf"
             }
         ]
+    },
+    {
+        "id": 30,
+        "data": "2026-06-04",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 15000.00,
+        "tipo": "Crédito",
+        "saldo": 189621.10,
+        "anexos": []
     }
 ]
