@@ -615,5 +615,26 @@
         "tipo": "Crédito",
         "saldo": 189621.10,
         "anexos": []
+    },
+    {
+        "id": 31,
+        "data": "2026-06-05",
+        "descricao": "Cicero Germano Alves",
+        "categoria": "Mão de Obra",
+        "valor": -3590.00,
+        "tipo": "Débito",
+        "saldo": 185031.10,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/24032512267045426000132000000000000226062213331298.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/comprovante3590.jpeg"
+            }
+        ]
     }
 ]
