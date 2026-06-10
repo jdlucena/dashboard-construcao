@@ -623,7 +623,7 @@
         "categoria": "Mão de Obra",
         "valor": -3590.00,
         "tipo": "Débito",
-        "saldo": 185031.10,
+        "saldo": 186031.10,
         "anexos": [
             {
                 "id": 1,
@@ -634,6 +634,48 @@
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/comprovante3590.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "data": "2026-06-09",
+        "descricao": "Aluguel da Casa em Macaíba (serventes)",
+        "categoria": "Mão de Obra",
+        "valor": -350.00,
+        "tipo": "Débito",
+        "saldo": 185681.10,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura085727.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/comprovanteserver0906.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "data": "2026-06-10",
+        "descricao": "Aluguel da Casa em Macaíba (pedreiros)",
+        "categoria": "Mão de Obra",
+        "valor": -350.00,
+        "tipo": "Débito",
+        "saldo": 185331.10,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura085738.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/comprovantepedreiro1006.jpeg"
             }
         ]
     }
