@@ -678,5 +678,31 @@
                 "url": "/anexos/comprovantepedreiro1006.jpeg"
             }
         ]
+    },
+    {
+        "id": 34,
+        "data": "2026-06-10",
+        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "categoria": "Material",
+        "valor": -232.62,
+        "tipo": "Débito",
+        "saldo": 185098.48,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/NF67932.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto67932.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento1106.pdf"
+            }
+        ]
     }
 ]
