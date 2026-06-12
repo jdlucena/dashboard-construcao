@@ -184,7 +184,8 @@ function renderChart1() {
             type: 'areaspline',
             zooming: {
                 type: 'x'
-            }
+            },
+            background: 'transparent'
         },
 
         title: {
@@ -296,7 +297,8 @@ function renderChart2(data) {
     Highcharts.chart('chart-2', {
 
         chart: {
-            type: 'column'
+            type: 'column',
+            background: 'transparent'
         },
 
         title: {
