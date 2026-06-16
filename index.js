@@ -185,7 +185,7 @@ function renderChart1() {
             zooming: {
                 type: 'x'
             },
-            background: 'transparent'
+            backgroundColor: 'transparent'
         },
 
         title: {
@@ -298,7 +298,7 @@ function renderChart2(data) {
 
         chart: {
             type: 'column',
-            background: 'transparent'
+            backgroundColor: 'transparent'
         },
 
         title: {
