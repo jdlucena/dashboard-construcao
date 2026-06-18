@@ -704,5 +704,47 @@
                 "url": "/anexos/ComprovantePagamento1106.pdf"
             }
         ]
+    },
+    {
+        "id": 35,
+        "data": "2026-06-17",
+        "descricao": "Projetos de esquadrias",
+        "categoria": "Serviços",
+        "valor": -195.00,
+        "tipo": "Débito",
+        "saldo": 184903.48,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura083601.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/comprovante195.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "data": "2026-06-17",
+        "descricao": "Tábuas na MAC Madeira",
+        "categoria": "Material",
+        "valor": -1182.83,
+        "tipo": "Débito",
+        "saldo": 183720.65,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/notafiscal14.52.11.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ccomprovante15.30.32.jpeg"
+            }
+        ]
     }
 ]

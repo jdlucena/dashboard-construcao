@@ -184,8 +184,7 @@ function renderChart1() {
             type: 'areaspline',
             zooming: {
                 type: 'x'
-            },
-            backgroundColor: 'transparent'
+            }
         },
 
         title: {
@@ -217,17 +216,12 @@ function renderChart1() {
         },
 
         plotOptions: {
-
             areaspline: {
-
                 lineWidth: 4,
-
                 marker: {
                     radius: 3
                 },
-
                 fillOpacity: 0.25,
-
                 color: '#157347'
             }
         },
@@ -297,8 +291,7 @@ function renderChart2(data) {
     Highcharts.chart('chart-2', {
 
         chart: {
-            type: 'column',
-            backgroundColor: 'transparent'
+            type: 'column'
         },
 
         title: {
@@ -314,57 +307,41 @@ function renderChart2(data) {
         },
 
         xAxis: {
-
             categories: categorias,
-
             crosshair: true,
-
             labels: {
                 style: {
-                    color: '#6c757d'
+                    color: '#000000'
                 }
             }
         },
 
         yAxis: {
-
             min: 0,
-
             title: {
                 text: ''
             },
-
             labels: {
-
                 formatter: function () {
-
                     return 'R$ ' +
                         Highcharts.numberFormat(this.value, 0, ',', '.');
                 },
-
                 style: {
-                    color: '#6c757d'
+                    color: '#000000'
                 }
             }
         },
 
         tooltip: {
-
             shared: true,
-
             valuePrefix: 'R$ ',
-
             valueDecimals: 2
         },
 
         plotOptions: {
-
             column: {
-
                 borderWidth: 0,
-
                 pointPadding: 0.1,
-
                 borderRadius: 4
             }
         },
