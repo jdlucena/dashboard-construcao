@@ -746,5 +746,36 @@
                 "url": "/anexos/ccomprovante15.30.32.jpeg"
             }
         ]
+    },
+    {
+        "id": 37,
+        "data": "2026-06-18",
+        "descricao": "Aporte Priscilla",
+        "categoria": "Aporte",
+        "valor": 5000.00,
+        "tipo": "Crédito",
+        "saldo": 188720.65,
+        "anexos": []
+    },
+    {
+        "id": 38,
+        "data": "2026-06-19",
+        "descricao": "Paulo Henrique Câmara Xavier",
+        "categoria": "Esquadrias",
+        "valor": -10000.00,
+        "tipo": "Débito",
+        "saldo": 178720.65,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "/anexos/boletoesquadrias1.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/comprovantesesquadrias1.pdf"
+            }
+        ]
     }
 ]
