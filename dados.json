@@ -777,5 +777,15 @@
                 "url": "/anexos/comprovantesesquadrias1.pdf"
             }
         ]
+    },
+    {
+        "id": 39,
+        "data": "2026-06-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1699.70,
+        "tipo": "Crédito",
+        "saldo": 180420.35,
+        "anexos": []
     }
 ]
