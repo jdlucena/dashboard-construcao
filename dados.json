@@ -787,5 +787,15 @@
         "tipo": "Crédito",
         "saldo": 180420.35,
         "anexos": []
+    },
+    {
+        "id": 40,
+        "data": "2026-07-02",
+        "descricao": "Resgate Ações - ITSA4",
+        "categoria": "Aporte",
+        "valor": 21010.94,
+        "tipo": "Crédito",
+        "saldo": 201431.29,
+        "anexos": []
     }
 ]
