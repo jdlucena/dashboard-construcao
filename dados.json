@@ -845,4 +845,26 @@
             }
         ]
     }
+    ,
+    {
+        "id": 43,
+        "data": "2026-07-03",
+        "descricao": "Areia e Brita",
+        "categoria": "Material",
+        "valor": -6500.00,
+        "tipo": "Débito",
+        "saldo": 194471.86,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura2026-07-07 180620.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-07-03 at 14.51.56.jpeg"
+            }
+        ]
+    }
 ]
