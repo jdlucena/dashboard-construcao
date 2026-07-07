@@ -823,5 +823,26 @@
                 "url": "/anexos/NF73467.pdf"
             }
         ]
+    },
+    {
+        "id": 42,
+        "data": "2026-07-06",
+        "descricao": "Aluguel da Casa em Macaíba (pedreiros)",
+        "categoria": "Mão de Obra",
+        "valor": -350.00,
+        "tipo": "Débito",
+        "saldo": 200971.86,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captur113943.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp16.03.14.jpeg"
+            }
+        ]
     }
 ]
