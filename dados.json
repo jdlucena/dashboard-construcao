@@ -805,7 +805,7 @@
         "categoria": "Material",
         "valor": -6500.00,
         "tipo": "Débito",
-        "saldo": 194471.86,
+        "saldo": 194931.29,
         "anexos": [
             {
                 "id": 1,
@@ -826,7 +826,7 @@
         "categoria": "Material",
         "valor": -109.43,
         "tipo": "Débito",
-        "saldo": 201321.86,
+        "saldo": 194821.86,
         "anexos": [
             {
                 "id": 1,
@@ -852,7 +852,7 @@
         "categoria": "Mão de Obra",
         "valor": -350.00,
         "tipo": "Débito",
-        "saldo": 200971.86,
+        "saldo": 194821.86,
         "anexos": [
             {
                 "id": 1,
