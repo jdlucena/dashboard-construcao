@@ -791,7 +791,7 @@
     {
         "id": 40,
         "data": "2026-07-02",
-        "descricao": "Resgate Ações - ITSA4",
+        "descricao": "Resgate Ações - PRIO3",
         "categoria": "Aporte",
         "valor": 21010.94,
         "tipo": "Crédito",
@@ -865,5 +865,15 @@
                 "url": "/anexos/WhatsApp16.03.14.jpeg"
             }
         ]
+    },
+    {
+        "id": 43,
+        "data": "2026-07-08",
+        "descricao": "Resgate Ações - ITSA4",
+        "categoria": "Aporte",
+        "valor": 18921.65,
+        "tipo": "Crédito",
+        "saldo": 213393.51,
+        "anexos": []
     }
 ]
