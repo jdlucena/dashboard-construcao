@@ -875,5 +875,26 @@
         "tipo": "Crédito",
         "saldo": 213393.51,
         "anexos": []
+    },
+    {
+        "id": 44,
+        "data": "2026-07-08",
+        "descricao": "Mão de Obra",
+        "categoria": "Mão de Obra",
+        "valor": -3000.00,
+        "tipo": "Débito",
+        "saldo": 210393.51,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura de tela 2026-07-08 145817.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-07-08 at 14.57.40.jpeg"
+            }
+        ]
     }
 ]
