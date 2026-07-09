@@ -896,5 +896,15 @@
                 "url": "/anexos/WhatsApp Image 2026-07-08 at 14.57.40.jpeg"
             }
         ]
+    },
+    {
+        "id": 45,
+        "data": "2026-07-08",
+        "descricao": "Aporte Priscilla (bônus)",
+        "categoria": "Aporte",
+        "valor": 5000.00,
+        "tipo": "Crédito",
+        "saldo": 215393.51,
+        "anexos": []
     }
 ]
