@@ -906,5 +906,36 @@
         "tipo": "Crédito",
         "saldo": 215393.51,
         "anexos": []
+    },
+    {
+        "id": 46,
+        "data": "2026-07-09",
+        "descricao": "Mão de Obra",
+        "categoria": "Mão de Obra",
+        "valor": -4200.00,
+        "tipo": "Débito",
+        "saldo": 211193.51,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura de tela 2026-07-10 100704.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-07-09 at 18.47.36.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "data": "2026-07-10",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 20000.00,
+        "tipo": "Crédito",
+        "saldo": 231193.51,
+        "anexos": []
     }
 ]
