@@ -974,5 +974,26 @@
                 "url": "/anexos/Captura de tela 2026-07-11 103424.png"
             }
         ]
+    },
+    {
+        "id": 50,
+        "data": "2026-07-14",
+        "descricao": "Cicero Germano Alves",
+        "categoria": "Mão de Obra",
+        "valor": -4490.00,
+        "tipo": "Débito",
+        "saldo": 213307.51,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/24032512267045426000132000000000000726072541247000.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-07-14 at 15.13.07.jpeg"
+            }
+        ]
     }
 ]
