@@ -995,5 +995,63 @@
                 "url": "/anexos/WhatsApp Image 2026-07-14 at 15.13.07.jpeg"
             }
         ]
+    },
+    {
+        "id": 51,
+        "data": "2026-07-16",
+        "descricao": "Ferragem Armada",
+        "categoria": "Material",
+        "valor": -23595.00,
+        "tipo": "Débito",
+        "saldo": 189712.51,
+        "anexos": [            
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "/anexos/Bradesco_16072026_164636.PDF"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento198273.pdf"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "data": "2026-07-17",
+        "descricao": "2C Engenharia",
+        "categoria": "Mão de Obra",
+        "valor": -20000.00,
+        "tipo": "Débito",
+        "saldo": 169712.51,
+        "anexos": [            
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/2600000000015.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-07-17 at 12.22.09.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "data": "2026-07-20",
+        "descricao": "Paulo Henrique Câmara Xavier",
+        "categoria": "Esquadrias",
+        "valor": -10000.00,
+        "tipo": "Débito",
+        "saldo": 159712.51,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "/anexos/boletoesquadrias1.pdf"
+            }
+        ]
     }
 ]
