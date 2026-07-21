@@ -1051,6 +1051,42 @@
                 "id": 1,
                 "nome": "Boleto",
                 "url": "/anexos/boletoesquadrias1.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/dasd9as7.pdf"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "data": "2026-07-20",
+        "descricao": "Aporte Priscilla",
+        "categoria": "Aporte",
+        "valor": 5000.00,
+        "tipo": "Crédito",
+        "saldo": 164712.51,
+        "anexos": []
+    },
+    {
+        "id": 55,
+        "data": "2026-07-21",
+        "descricao": "Tijolos na Carvalho e Gomes - 7k tijolos",
+        "categoria": "Material",
+        "valor": -5950.00,
+        "tipo": "Débito",
+        "saldo": 158762.51,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/WhatsApp Image 2026-07-21 at 10.40.36.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-07-21 at 11.01.52.jpeg"
             }
         ]
     }
