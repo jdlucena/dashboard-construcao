@@ -1115,5 +1115,15 @@
                 "url": "/anexos/8das76d78.pdf"
             }
         ]
+    },
+    {
+        "id": 57,
+        "data": "2026-08-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1718.05,
+        "tipo": "Crédito",
+        "saldo": 158937.95,
+        "anexos": []
     }
 ]
