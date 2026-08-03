@@ -1125,5 +1125,26 @@
         "tipo": "Crédito",
         "saldo": 158937.95,
         "anexos": []
+    },
+    {
+        "id": 58,
+        "data": "2026-08-03",
+        "descricao": "Telas das Esquadrias",
+        "categoria": "Material",
+        "valor": -7500.00,
+        "tipo": "Débito",
+        "saldo": 151437.95,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Orçamento",
+                "url": "/anexos/WhatsApp Image 2026-08-03 at 16.11.31.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-03 at 16.15.15.jpeg"
+            }
+        ]
     }
 ]
