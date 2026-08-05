@@ -1146,5 +1146,26 @@
                 "url": "/anexos/WhatsApp Image 2026-08-03 at 16.15.15.jpeg"
             }
         ]
+    },
+    {
+        "id": 59,
+        "data": "2026-08-05",
+        "descricao": "Cicero Germano Alves",
+        "categoria": "Mão de Obra",
+        "valor": -2615.00,
+        "tipo": "Débito",
+        "saldo": 149822.95,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/RECIBO DE PAGAMENTO GERMANO.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-05 at 08.43.27.jpeg"
+            }
+        ]
     }
 ]
