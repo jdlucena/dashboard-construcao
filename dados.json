@@ -1167,5 +1167,26 @@
                 "url": "/anexos/WhatsApp Image 2026-08-05 at 08.43.27.jpeg"
             }
         ]
+    },
+    {
+        "id": 60,
+        "data": "2026-08-05",
+        "descricao": "Aluguel da Casa em Macaíba (serventes)",
+        "categoria": "Mão de Obra",
+        "valor": -350.00,
+        "tipo": "Débito",
+        "saldo": 149472.95,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura de tela 2026-08-05 214506.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-05 at 17.41.47.jpeg"
+            }
+        ]
     }
 ]
