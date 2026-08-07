@@ -1154,7 +1154,7 @@
         "categoria": "Mão de Obra",
         "valor": -2615.00,
         "tipo": "Débito",
-        "saldo": 149822.95,
+        "saldo": 148822.95,
         "anexos": [
             {
                 "id": 1,
@@ -1175,7 +1175,7 @@
         "categoria": "Mão de Obra",
         "valor": -350.00,
         "tipo": "Débito",
-        "saldo": 149472.95,
+        "saldo": 148472.95,
         "anexos": [
             {
                 "id": 1,
@@ -1188,5 +1188,25 @@
                 "url": "/anexos/WhatsApp Image 2026-08-05 at 17.41.47.jpeg"
             }
         ]
+    },
+    {
+        "id": 61,
+        "data": "2026-08-07",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 15000.00,
+        "tipo": "Crédito",
+        "saldo": 163472.95,
+        "anexos": []
+    },
+    {
+        "id": 62,
+        "data": "2026-08-07",
+        "descricao": "Resgate Ações - CPLE3",
+        "categoria": "Aporte",
+        "valor": 19704.60,
+        "tipo": "Crédito",
+        "saldo": 183177.55,
+        "anexos": []
     }
 ]
