@@ -1208,5 +1208,15 @@
         "tipo": "Crédito",
         "saldo": 183177.55,
         "anexos": []
+    },
+    {
+        "id": 63,
+        "data": "2026-08-11",
+        "descricao": "Aporte Priscilla (bônus)",
+        "categoria": "Aporte",
+        "valor": 5000.00,
+        "tipo": "Crédito",
+        "saldo": 188177.55,
+        "anexos": []
     }
 ]
