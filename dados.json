@@ -1228,5 +1228,26 @@
         "tipo": "Crédito",
         "saldo": 189177.55,
         "anexos": []
+    },
+    {
+        "id": 65,
+        "data": "2026-08-14",
+        "descricao": "Aterro 3 caçambas",
+        "categoria": "Material",
+        "valor": -720.00,
+        "tipo": "Débito",
+        "saldo": 188457.95,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/WhatsApp Image 2026-08-14 at 15.20.07.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-14 at 15.33.42.jpeg"
+            }
+        ]
     }
 ]
