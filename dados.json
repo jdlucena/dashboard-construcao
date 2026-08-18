@@ -1270,5 +1270,26 @@
                 "url": "/anexos/WhatsApp Image 2026-08-14 at 18.10.32.jpeg"
             }
         ]
+    },
+    {
+        "id": 67,
+        "data": "2026-08-18",
+        "descricao": "2C Engenharia",
+        "categoria": "Mão de Obra",
+        "valor": -20000.00,
+        "tipo": "Débito",
+        "saldo": 163157.95,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/2600000000018.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-18 at 13.44.00.jpeg"
+            }
+        ]
     }
 ]
