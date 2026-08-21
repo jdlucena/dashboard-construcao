@@ -1291,5 +1291,26 @@
                 "url": "/anexos/WhatsApp Image 2026-08-18 at 13.44.00.jpeg"
             }
         ]
+    },
+    {
+        "id": 68,
+        "data": "2026-08-21",
+        "descricao": "Paulo Henrique Câmara Xavier",
+        "categoria": "Esquadrias",
+        "valor": -10000.00,
+        "tipo": "Débito",
+        "saldo": 153157.55,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "/anexos/boletoesquadrias1.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/8d7ahs687d6ha8s7.pdf"
+            }
+        ]
     }
 ]
