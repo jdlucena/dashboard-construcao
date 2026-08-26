@@ -113,7 +113,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "data": "2026-04-16",
         "descricao": "Comissão Vendedor Telhas",
         "categoria": "Comissão",
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "data": "2026-04-27",
         "descricao": "Descarregamento das telhas",
         "categoria": "Serviços",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "data": "2026-04-30",
         "descricao": "Aluguel da Casa em Macaíba (serventes)",
         "categoria": "Mão de Obra",
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "data": "2026-05-01",
         "descricao": "Rendimentos 100% CDI",
         "categoria": "Rendimentos",
@@ -176,7 +176,7 @@
         "anexos": []
     },
     {
-        "id": 11,
+        "id": 12,
         "data": "2026-05-07",
         "descricao": "Frete Piso Elizabeth",
         "categoria": "Frete",
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 13,
         "data": "2026-05-07",
         "descricao": "Frete Primeira Mobilização de Obra",
         "categoria": "Frete",
@@ -223,7 +223,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
         "data": "2026-05-07",
         "descricao": "Tábuas na MAC Madeira",
         "categoria": "Material",
@@ -244,7 +244,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": 15,
         "data": "2026-05-08",
         "descricao": "Aporte Mensal",
         "categoria": "Aporte",
@@ -254,7 +254,7 @@
         "anexos": []
     },
     {
-        "id": 15,
+        "id": 16,
         "data": "2026-05-14",
         "descricao": "Tijolos na Carvalho e Gomes - 9k tijolos",
         "categoria": "Material",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "data": "2026-05-15",
         "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
@@ -306,7 +306,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 18,
         "data": "2026-05-15",
         "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
@@ -332,7 +332,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 19,
         "data": "2026-05-15",
         "descricao": "Resgate Ações - BBAS3 e BBSE3",
         "categoria": "Aporte",
@@ -342,7 +342,7 @@
         "anexos": []
     },
     {
-        "id": 18,
+        "id": 20,
         "data": "2026-05-15",
         "descricao": "Indenização CNH",
         "categoria": "Aporte",
@@ -352,7 +352,7 @@
         "anexos": []
     },
     {
-        "id": 19,
+        "id": 21,
         "data": "2026-05-20",
         "descricao": "Cimento na Casa do Cimento - 500 sacos",
         "categoria": "Material",
@@ -373,7 +373,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 22,
         "data": "2026-05-22",
         "descricao": "2 geladeiras e 1 fogão usados",
         "categoria": "Mão de Obra",
@@ -394,9 +394,9 @@
         ]
     },
     {
-        "id": 21,
+        "id": 23,
         "data": "2026-05-25",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -505.89,
         "tipo": "Débito",
@@ -420,9 +420,9 @@
         ]
     },
     {
-        "id": 21,
+        "id": 24,
         "data": "2026-05-25",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -419.36,
         "tipo": "Débito",
@@ -446,7 +446,7 @@
         ]
     },
     {
-        "id": 22,
+        "id": 25,
         "data": "2026-05-26",
         "descricao": "Aluguel da Casa em Macaíba (serventes)",
         "categoria": "Mão de Obra",
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": 26,
         "data": "2026-05-27",
         "descricao": "Aporte Priscilla",
         "categoria": "Aporte",
@@ -472,7 +472,7 @@
         "anexos": []
     },
     {
-        "id": 24,
+        "id": 27,
         "data": "2026-05-28",
         "descricao": "Ferragem Armada",
         "categoria": "Material",
@@ -498,9 +498,9 @@
         ]
     },
     {
-        "id": 25,
+        "id": 28,
         "data": "2026-05-29",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -121.13,
         "tipo": "Débito",
@@ -524,7 +524,7 @@
         ]
     },
     {
-        "id": 26,
+        "id": 29,
         "data": "2026-06-01",
         "descricao": "Rendimentos 100% CDI",
         "categoria": "Rendimentos",
@@ -534,9 +534,9 @@
         "anexos": []
     },
     {
-        "id": 27,
+        "id": 30,
         "data": "2026-06-01",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -578.98,
         "tipo": "Débito",
@@ -560,7 +560,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": 31,
         "data": "2026-06-02",
         "descricao": "Aço para o muro",
         "categoria": "Material",
@@ -581,9 +581,9 @@
         ]
     },
     {
-        "id": 29,
+        "id": 32,
         "data": "2026-06-03",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -290.86,
         "tipo": "Débito",
@@ -607,7 +607,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": 33,
         "data": "2026-06-04",
         "descricao": "Aporte Mensal",
         "categoria": "Aporte",
@@ -617,7 +617,7 @@
         "anexos": []
     },
     {
-        "id": 31,
+        "id": 34,
         "data": "2026-06-05",
         "descricao": "Cicero Germano Alves",
         "categoria": "Mão de Obra",
@@ -638,7 +638,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": 35,
         "data": "2026-06-09",
         "descricao": "Aluguel da Casa em Macaíba (serventes)",
         "categoria": "Mão de Obra",
@@ -659,7 +659,7 @@
         ]
     },
     {
-        "id": 33,
+        "id": 36,
         "data": "2026-06-10",
         "descricao": "Aluguel da Casa em Macaíba (pedreiros)",
         "categoria": "Mão de Obra",
@@ -680,9 +680,9 @@
         ]
     },
     {
-        "id": 34,
+        "id": 37,
         "data": "2026-06-10",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -232.62,
         "tipo": "Débito",
@@ -706,7 +706,7 @@
         ]
     },
     {
-        "id": 35,
+        "id": 38,
         "data": "2026-06-17",
         "descricao": "Projetos de esquadrias",
         "categoria": "Serviços",
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "id": 36,
+        "id": 39,
         "data": "2026-06-17",
         "descricao": "Tábuas na MAC Madeira",
         "categoria": "Material",
@@ -748,7 +748,7 @@
         ]
     },
     {
-        "id": 37,
+        "id": 40,
         "data": "2026-06-18",
         "descricao": "Aporte Priscilla",
         "categoria": "Aporte",
@@ -758,7 +758,7 @@
         "anexos": []
     },
     {
-        "id": 38,
+        "id": 41,
         "data": "2026-06-19",
         "descricao": "Paulo Henrique Câmara Xavier",
         "categoria": "Esquadrias",
@@ -779,7 +779,7 @@
         ]
     },
     {
-        "id": 39,
+        "id": 42,
         "data": "2026-07-01",
         "descricao": "Rendimentos 100% CDI",
         "categoria": "Rendimentos",
@@ -789,7 +789,7 @@
         "anexos": []
     },
     {
-        "id": 40,
+        "id": 43,
         "data": "2026-07-02",
         "descricao": "Resgate Ações - PRIO3",
         "categoria": "Aporte",
@@ -799,7 +799,7 @@
         "anexos": []
     },
     {
-        "id": 43,
+        "id": 44,
         "data": "2026-07-03",
         "descricao": "Areia e Brita",
         "categoria": "Material",
@@ -820,9 +820,9 @@
         ]
     },
     {
-        "id": 41,
+        "id": 45,
         "data": "2026-07-06",
-        "descricao": "Materiais de Construção Diversos na Casa Tem Home",
+        "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
         "valor": -109.43,
         "tipo": "Débito",
@@ -846,7 +846,7 @@
         ]
     },
     {
-        "id": 42,
+        "id": 46,
         "data": "2026-07-06",
         "descricao": "Aluguel da Casa em Macaíba (pedreiros)",
         "categoria": "Mão de Obra",
@@ -867,7 +867,7 @@
         ]
     },
     {
-        "id": 43,
+        "id": 47,
         "data": "2026-07-08",
         "descricao": "Resgate Ações - ITSA4",
         "categoria": "Aporte",
@@ -877,7 +877,7 @@
         "anexos": []
     },
     {
-        "id": 44,
+        "id": 48,
         "data": "2026-07-08",
         "descricao": "Mão de Obra Muro",
         "categoria": "Mão de Obra",
@@ -898,7 +898,7 @@
         ]
     },
     {
-        "id": 45,
+        "id": 49,
         "data": "2026-07-08",
         "descricao": "Aporte Priscilla (bônus)",
         "categoria": "Aporte",
@@ -908,7 +908,7 @@
         "anexos": []
     },
     {
-        "id": 46,
+        "id": 50,
         "data": "2026-07-09",
         "descricao": "Mão de Obra Muro",
         "categoria": "Mão de Obra",
@@ -929,7 +929,7 @@
         ]
     },
     {
-        "id": 47,
+        "id": 51,
         "data": "2026-07-10",
         "descricao": "Aporte Mensal",
         "categoria": "Aporte",
@@ -939,7 +939,7 @@
         "anexos": []
     },
     {
-        "id": 48,
+        "id": 52,
         "data": "2026-07-10",
         "descricao": "Mão de Obra Muro",
         "categoria": "Mão de Obra",
@@ -960,7 +960,7 @@
         ]
     },
     {
-        "id": 49,
+        "id": 53,
         "data": "2026-07-13",
         "descricao": "Mão de Obra Muro (físico)",
         "categoria": "Mão de Obra",
@@ -976,7 +976,7 @@
         ]
     },
     {
-        "id": 50,
+        "id": 54,
         "data": "2026-07-14",
         "descricao": "Cicero Germano Alves",
         "categoria": "Mão de Obra",
@@ -997,7 +997,7 @@
         ]
     },
     {
-        "id": 51,
+        "id": 55,
         "data": "2026-07-16",
         "descricao": "Ferragem Armada",
         "categoria": "Material",
@@ -1018,7 +1018,7 @@
         ]
     },
     {
-        "id": 52,
+        "id": 56,
         "data": "2026-07-17",
         "descricao": "2C Engenharia",
         "categoria": "Mão de Obra",
@@ -1039,7 +1039,7 @@
         ]
     },
     {
-        "id": 53,
+        "id": 57,
         "data": "2026-07-20",
         "descricao": "Paulo Henrique Câmara Xavier",
         "categoria": "Esquadrias",
@@ -1060,7 +1060,7 @@
         ]
     },
     {
-        "id": 54,
+        "id": 58,
         "data": "2026-07-20",
         "descricao": "Aporte Priscilla",
         "categoria": "Aporte",
@@ -1070,7 +1070,7 @@
         "anexos": []
     },
     {
-        "id": 55,
+        "id": 59,
         "data": "2026-07-21",
         "descricao": "Tijolos na Carvalho e Gomes - 7k tijolos",
         "categoria": "Material",
@@ -1091,7 +1091,7 @@
         ]
     },
     {
-        "id": 56,
+        "id": 60,
         "data": "2026-07-27",
         "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
@@ -1117,7 +1117,7 @@
         ]
     },
     {
-        "id": 57,
+        "id": 61,
         "data": "2026-08-01",
         "descricao": "Rendimentos 100% CDI",
         "categoria": "Rendimentos",
@@ -1127,7 +1127,7 @@
         "anexos": []
     },
     {
-        "id": 58,
+        "id": 62,
         "data": "2026-08-03",
         "descricao": "Telas das Esquadrias",
         "categoria": "Material",
@@ -1148,7 +1148,7 @@
         ]
     },
     {
-        "id": 59,
+        "id": 63,
         "data": "2026-08-05",
         "descricao": "Cicero Germano Alves",
         "categoria": "Mão de Obra",
@@ -1169,7 +1169,7 @@
         ]
     },
     {
-        "id": 60,
+        "id": 64,
         "data": "2026-08-05",
         "descricao": "Aluguel da Casa em Macaíba (serventes)",
         "categoria": "Mão de Obra",
@@ -1190,7 +1190,7 @@
         ]
     },
     {
-        "id": 61,
+        "id": 65,
         "data": "2026-08-07",
         "descricao": "Aporte Mensal",
         "categoria": "Aporte",
@@ -1200,7 +1200,7 @@
         "anexos": []
     },
     {
-        "id": 62,
+        "id": 66,
         "data": "2026-08-07",
         "descricao": "Resgate Ações - CPLE3",
         "categoria": "Aporte",
@@ -1210,7 +1210,7 @@
         "anexos": []
     },
     {
-        "id": 63,
+        "id": 67,
         "data": "2026-08-11",
         "descricao": "Aporte Priscilla (bônus)",
         "categoria": "Aporte",
@@ -1220,7 +1220,7 @@
         "anexos": []
     },
     {
-        "id": 64,
+        "id": 68,
         "data": "2026-08-14",
         "descricao": "Aporte Priscilla",
         "categoria": "Aporte",
@@ -1230,7 +1230,7 @@
         "anexos": []
     },
     {
-        "id": 65,
+        "id": 69,
         "data": "2026-08-14",
         "descricao": "Aterro 3 caçambas",
         "categoria": "Material",
@@ -1251,7 +1251,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": 70,
         "data": "2026-08-14",
         "descricao": "Mão de obra",
         "categoria": "Mão de Obra",
@@ -1272,7 +1272,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": 71,
         "data": "2026-08-18",
         "descricao": "2C Engenharia",
         "categoria": "Mão de Obra",
@@ -1293,7 +1293,7 @@
         ]
     },
     {
-        "id": 68,
+        "id": 72,
         "data": "2026-08-20",
         "descricao": "Paulo Henrique Câmara Xavier",
         "categoria": "Esquadrias",
@@ -1314,7 +1314,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": 73,
         "data": "2026-08-21",
         "descricao": "Aporte Priscilla",
         "categoria": "Aporte",
@@ -1322,5 +1322,52 @@
         "tipo": "Crédito",
         "saldo": 158157.55,
         "anexos": []
+    },
+    {
+        "id": 74,
+        "data": "2026-08-25",
+        "descricao": "Poste, areia e brita",
+        "categoria": "Material",
+        "valor": -7672.40,
+        "tipo": "Débito",
+        "saldo": 150485.15,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Orçamento",
+                "url": "/anexos/ORCAMENTO_391_CARLOS_JR_SEM_VALOR_UNITARIO.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-25 at 16.23.49.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "data": "2026-08-26",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -258.94,
+        "tipo": "Débito",
+        "saldo": 150226.21,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/79381.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto79381.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento9d8a7s.pdf"
+            }
+        ]
     }
 ]
