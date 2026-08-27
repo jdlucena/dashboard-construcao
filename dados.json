@@ -1369,5 +1369,27 @@
                 "url": "/anexos/ComprovantePagamento9d8a7s.pdf"
             }
         ]
+    },
+    {
+        "id": 76,
+        "data": "2026-08-27",
+        "descricao": "Aterro 5 caçambas",
+        "categoria": "Material",
+        "valor": -1200.00,
+        "tipo": "Débito",
+        "saldo": 149026.21,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/WhatsApp Image 2026-08-27 at 09.04.38.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-27 at 09.18.54.jpeg"
+            }
+        ]
     }
+
 ]
