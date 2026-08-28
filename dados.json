@@ -22,7 +22,7 @@
     {
         "id": 3,
         "data": "2026-04-02",
-        "descricao": "Compra de Telhas Esmaltadas",
+        "descricao": "Compra de Telhas Esmaltadas*",
         "categoria": "Material",
         "valor": -7611.36,
         "tipo": "Débito",
@@ -94,7 +94,7 @@
     {
         "id": 7,
         "data": "2026-04-16",
-        "descricao": "Frete Telhas",
+        "descricao": "Frete Telhas*",
         "categoria": "Frete",
         "valor": -5526.00,
         "tipo": "Débito",
@@ -115,7 +115,7 @@
     {
         "id": 8,
         "data": "2026-04-16",
-        "descricao": "Comissão Vendedor Telhas",
+        "descricao": "Comissão Vendedor Telhas*",
         "categoria": "Comissão",
         "valor": -1958.00,
         "tipo": "Débito",
@@ -136,7 +136,7 @@
     {
         "id": 9,
         "data": "2026-04-27",
-        "descricao": "Descarregamento das telhas",
+        "descricao": "Descarregamento das telhas*",
         "categoria": "Serviços",
         "valor": -600.00,
         "tipo": "Débito",
@@ -708,7 +708,7 @@
     {
         "id": 38,
         "data": "2026-06-17",
-        "descricao": "Projetos de esquadrias",
+        "descricao": "Projetos de esquadrias*",
         "categoria": "Serviços",
         "valor": -195.00,
         "tipo": "Débito",
@@ -879,7 +879,7 @@
     {
         "id": 48,
         "data": "2026-07-08",
-        "descricao": "Mão de Obra Muro",
+        "descricao": "Mão de Obra Muro*",
         "categoria": "Mão de Obra",
         "valor": -3000.00,
         "tipo": "Débito",
@@ -910,7 +910,7 @@
     {
         "id": 50,
         "data": "2026-07-09",
-        "descricao": "Mão de Obra Muro",
+        "descricao": "Mão de Obra Muro*",
         "categoria": "Mão de Obra",
         "valor": -4200.00,
         "tipo": "Débito",
@@ -941,7 +941,7 @@
     {
         "id": 52,
         "data": "2026-07-10",
-        "descricao": "Mão de Obra Muro",
+        "descricao": "Mão de Obra Muro*",
         "categoria": "Mão de Obra",
         "valor": -7396.00,
         "tipo": "Débito",
@@ -962,7 +962,7 @@
     {
         "id": 53,
         "data": "2026-07-13",
-        "descricao": "Mão de Obra Muro (físico)",
+        "descricao": "Mão de Obra Muro (físico)*",
         "categoria": "Mão de Obra",
         "valor": -6000.00,
         "tipo": "Débito",
@@ -1129,7 +1129,7 @@
     {
         "id": 62,
         "data": "2026-08-03",
-        "descricao": "Telas das Esquadrias",
+        "descricao": "Telas das Esquadrias*",
         "categoria": "Material",
         "valor": -7500.00,
         "tipo": "Débito",
@@ -1232,7 +1232,7 @@
     {
         "id": 69,
         "data": "2026-08-14",
-        "descricao": "Aterro 3 caçambas",
+        "descricao": "Aterro 3 caçambas*",
         "categoria": "Material",
         "valor": -720.00,
         "tipo": "Débito",
@@ -1373,7 +1373,7 @@
     {
         "id": 76,
         "data": "2026-08-27",
-        "descricao": "Aterro 5 caçambas",
+        "descricao": "Aterro 5 caçambas*",
         "categoria": "Material",
         "valor": -1200.00,
         "tipo": "Débito",
@@ -1390,6 +1390,26 @@
                 "url": "/anexos/WhatsApp Image 2026-08-27 at 09.18.54.jpeg"
             }
         ]
+    },
+    {
+        "id": 77,
+        "data": "2026-08-28",
+        "descricao": "Mão de obra*",
+        "categoria": "Mão de Obra",
+        "valor": -4500.00,
+        "tipo": "Débito",
+        "saldo": 144526.21,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura de tela 2026-08-28 145440.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-08-28 at 14.51.31.jpeg"
+            }
+        ]
     }
-
 ]
