@@ -1253,7 +1253,7 @@
     {
         "id": 70,
         "data": "2026-08-14",
-        "descricao": "Mão de obra",
+        "descricao": "Mão de obra*",
         "categoria": "Mão de Obra",
         "valor": -5300.00,
         "tipo": "Débito",
@@ -1411,5 +1411,15 @@
                 "url": "/anexos/WhatsApp Image 2026-08-28 at 14.51.31.jpeg"
             }
         ]
+    },
+    {
+        "id": 78,
+        "data": "2026-09-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1356.32,
+        "tipo": "Crédito",
+        "saldo": 145882.53,
+        "anexos": []
     }
 ]
