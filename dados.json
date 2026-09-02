@@ -1394,7 +1394,7 @@
     {
         "id": 77,
         "data": "2026-08-28",
-        "descricao": "Mão de obra*",
+        "descricao": "Mão de obra",
         "categoria": "Mão de Obra",
         "valor": -4500.00,
         "tipo": "Débito",

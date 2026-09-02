@@ -11,7 +11,8 @@ const CONFIG = {
         'primary',
         'danger',
         'warning',
-        'info'
+        'info',
+        'secondary'
     ]
 };
 
@@ -25,6 +26,9 @@ const state = {
     totalAportes: 0,
     totalDespesas: 0,
     rendimentosCDI: 0,
+    muro: 43353.94,
+    extra: 0,
+    construtor: 0,
     evolucaoSaldo: [],
     dados: []
 };
@@ -160,6 +164,18 @@ function atualizarDashboard() {
     document.getElementById('preco-metro-quadrado')
         .textContent =
         formatarMoeda(CONFIG.precoMetroQuadrado);
+
+    document.getElementById('muro')
+        .textContent =
+        formatarMoeda(state.muro);
+
+    document.getElementById('gastos-extras')
+        .textContent =
+        formatarMoeda(state.extra);
+
+    document.getElementById('gastos-construtor')
+        .textContent =
+        formatarMoeda(state.construtor);
 
     const progressBar =
         document.querySelector('.progress-bar');
@@ -873,6 +889,14 @@ function processarDados(data) {
             new Date(item.data).getTime(),
             item.saldo
         ]);
+
+        item.muro = state.muro;
+
+        if (item.descricao.includes('*')) {
+            state.extra += item.valor;
+        }
+
+        state.construtor += (state.totalDespesas - state.extra - state.muro);
     });
 }
 
