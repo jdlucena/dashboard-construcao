@@ -175,7 +175,7 @@ function atualizarDashboard() {
 
     document.getElementById('gastos-construtor')
         .textContent =
-        formatarMoeda(state.construtor);
+        formatarMoeda(state.totalDespesas - state.extra - state.muro);
 
     const progressBar =
         document.querySelector('.progress-bar');
@@ -893,10 +893,9 @@ function processarDados(data) {
         item.muro = state.muro;
 
         if (item.descricao.includes('*')) {
-            state.extra += item.valor;
+            state.extra += Math.abs(item.valor);
         }
-
-        state.construtor += (state.totalDespesas - state.extra - state.muro);
+        
     });
 }
 
