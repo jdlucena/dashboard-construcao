@@ -1442,5 +1442,52 @@
                 "url": "/anexos/WhatsApp Image 2026-09-01 at 10.49.37.jpeg"
             }
         ]
+    },
+    {
+        "id": 80,
+        "data": "2026-09-02",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -151.91,
+        "tipo": "Débito",
+        "saldo": 145480.62,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/24260844944974000107550110000812581798694533-nfe32.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto_274995das.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento9da8s7.pdf"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "data": "2026-06-05",
+        "descricao": "Cicero Germano Alves",
+        "categoria": "Mão de Obra",
+        "valor": -2500.00,
+        "tipo": "Débito",
+        "saldo": 142980.62,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/RECIBO DE PAGAMENTO_ agosto2026.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-09-02 at 17.08.30.jpeg"
+            }
+        ]
     }
 ]
