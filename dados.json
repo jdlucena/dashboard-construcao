@@ -1504,5 +1504,15 @@
         "tipo": "Crédito",
         "saldo": 163818.19,
         "anexos": []
+    },
+    {
+        "id": 83,
+        "data": "2026-09-04",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 10000.00,
+        "tipo": "Crédito",
+        "saldo": 173818.19,
+        "anexos": []
     }
 ]
