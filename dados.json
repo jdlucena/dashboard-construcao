@@ -1494,5 +1494,15 @@
                 "url": "/anexos/WhatsApp Image 2026-09-02 at 17.08.30.jpeg"
             }
         ]
+    },
+    {
+        "id": 82,
+        "data": "2026-09-04",
+        "descricao": "Resgate Ações - TAEE11",
+        "categoria": "Aporte",
+        "valor": 20837.57,
+        "tipo": "Crédito",
+        "saldo": 163818.19,
+        "anexos": []
     }
 ]
