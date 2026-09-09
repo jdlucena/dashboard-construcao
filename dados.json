@@ -1514,5 +1514,31 @@
         "tipo": "Crédito",
         "saldo": 173818.19,
         "anexos": []
+    },
+    {
+        "id": 84,
+        "data": "2026-09-09",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -570.23,
+        "tipo": "Débito",
+        "saldo": 173247.96,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/NF83354.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto83354.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/98da7s98d7has97d.pdf"
+            }
+        ]
     }
 ]
