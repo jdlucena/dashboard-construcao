@@ -708,7 +708,7 @@
     {
         "id": 38,
         "data": "2026-06-17",
-        "descricao": "Projetos de esquadrias*",
+        "descricao": "Projetos de esquadrias",
         "categoria": "Serviços",
         "valor": -195.00,
         "tipo": "Débito",
@@ -1540,5 +1540,15 @@
                 "url": "/anexos/98da7s98d7has97d.pdf"
             }
         ]
+    },
+    {
+        "id": 85,
+        "data": "2026-09-29",
+        "descricao": "Aporte Priscilla (bônus)",
+        "categoria": "Aporte",
+        "valor": 6000.00,
+        "tipo": "Crédito",
+        "saldo": 179247.96,
+        "anexos": []
     }
 ]
