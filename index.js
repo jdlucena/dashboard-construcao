@@ -29,7 +29,7 @@ const state = {
     muro: 43353.94,
     extra: 0,
     construtor: 0,
-    totalMetroQuadrado: 437250.00
+    totalMetroQuadrado: 437250.00,
     evolucaoSaldo: [],
     dados: []
 };
