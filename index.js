@@ -5,6 +5,7 @@
 const CONFIG = {
     precoMetroQuadrado: 3200,
     metrosQuadrados: 165,
+    totalMetroQuadrado: 437250.00,
     url_padrao: location.origin,
     coresCategorias: [
         'success',
@@ -28,8 +29,7 @@ const state = {
     rendimentosCDI: 0,
     muro: 43353.94,
     extra: 0,
-    construtor: 0,
-    totalMetroQuadrado: 437250.00,
+    construtor: 0,    
     evolucaoSaldo: [],
     dados: []
 };
