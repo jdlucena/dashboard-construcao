@@ -135,7 +135,7 @@ function atualizarDashboard() {
         (state.totalDespesas / custoTotalObra) * 100;
 
     const percentualConsumoConstrutor =
-        ((state.totalDespesas - state.extra - state.muro)) / CONFIG.totalMetroQuadrado) * 100;
+        ((state.totalDespesas - state.extra - state.muro) / CONFIG.totalMetroQuadrado) * 100;
 
     document.getElementById('saldo-atual')
         .textContent =
