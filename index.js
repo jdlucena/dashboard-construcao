@@ -29,6 +29,7 @@ const state = {
     muro: 43353.94,
     extra: 0,
     construtor: 0,
+    totalMetroQuadrado: 437250.00
     evolucaoSaldo: [],
     dados: []
 };
@@ -133,6 +134,9 @@ function atualizarDashboard() {
     const percentualConsumo =
         (state.totalDespesas / custoTotalObra) * 100;
 
+    const percentualConsumoConstrutor =
+        ((state.totalDespesas - state.extra - state.muro)) / CONFIG.totalMetroQuadrado) * 100;
+
     document.getElementById('saldo-atual')
         .textContent =
         formatarMoeda(state.saldoAtual);
@@ -152,6 +156,10 @@ function atualizarDashboard() {
     document.getElementById('percentual-consumo')
         .textContent =
         `${percentualConsumo.toFixed(1)}%`;
+
+    document.getElementById('percentual-construtor')
+        .textContent =
+        `${percentualConsumoConstrutor.toFixed(1)}%`;
 
     document.getElementById('total-gasto')
         .textContent =
