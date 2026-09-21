@@ -7,10 +7,10 @@
     <link href="favicon.png" rel="shortcut icon" />
     <title>Dashboard Casa Lagoa do Mato</title>
     <link href="https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="index.css" rel="stylesheet">
+    <link href="index-v2.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="dashboard-dark">
     <!-- Modal -->
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
@@ -79,28 +79,28 @@
         <!-- Header -->
         <div class="container">
             <header class="d-flex flex-wrap justify-content-center align-items-center py-3">
-                <div class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+                <div class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-decoration-none brand-wrap">
                     <a href="midia.html"
-                        class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2">
+                        class="feature-icon brand-icon d-inline-flex align-items-center justify-content-center fs-2">
                         <svg class="bi" width="1em" height="1em" aria-hidden="true" fill="currentColor">
                             <use xlink:href="#house-check"></use>
                         </svg>
                     </a>
                     <div class="d-grid ms-3">
-                        <span class="h4 mb-0">Casa Lagoa do Mato</span>
-                        <span class="fs-6 text-muted">Acompanhamento da Construção</span>
+                        <span class="h4 mb-0 brand-title">Casa Lagoa do Mato</span>
+                        <span class="fs-6 brand-subtitle">Acompanhamento da Construção</span>
                     </div>
                 </div>
                 <div>
                     <span
-                        class="badge bg-secondary-subtle border border-secondary-subtle text-secondary-emphasis rounded-pill">
+                        class="badge project-chip rounded-pill">
                         <span id="preco-metro-quadrado">R$ 0,00</span> m²
                     </span>
                 </div>
             </header>
         </div>
 
-        <div class="container-fluid bg-body-tertiary">
+        <div class="container-fluid dashboard-shell">
             <!-- KPIs -->
             <div class="container py-4">
                 <div class="row g-3">
@@ -485,7 +485,7 @@
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
     <script src="jquery-3.7.1.min.js"></script>
-    <script src="index.js"></script>
+    <script src="index-v2.js"></script>
 </body>
 
 </html>

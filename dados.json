@@ -1587,5 +1587,15 @@
                 "url": "/anexos/9d8ajsd98ja7s.pdf"
             }
         ]
+    },
+    {
+        "id": 88,
+        "data": "2026-09-18",
+        "descricao": "Aporte Priscilla",
+        "categoria": "Aporte",
+        "valor": 5000.00,
+        "tipo": "Crédito",
+        "saldo": 164247.96,
+        "anexos": []
     }
 ]
