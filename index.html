@@ -103,7 +103,7 @@
 
 <script>
 async function loadData() {
-  const response = await fetch('./data.json');
+  const response = await fetch('./dados.json');
 
   if (!response.ok) {
     throw new Error(`Erro ao carregar data.json: ${response.status}`);
