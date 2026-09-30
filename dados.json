@@ -1026,7 +1026,7 @@
         "id": 56,
         "data": "2026-07-17",
         "descricao": "2C Engenharia",
-        "categoria": "Mão de Obra",
+        "categoria": "Construtor",
         "valor": -20000.00,
         "tipo": "Débito",
         "saldo": 169712.51,
@@ -1280,7 +1280,7 @@
         "id": 71,
         "data": "2026-08-18",
         "descricao": "2C Engenharia",
-        "categoria": "Mão de Obra",
+        "categoria": "Construtor",
         "valor": -20000.00,
         "tipo": "Débito",
         "saldo": 163157.95,
@@ -1555,7 +1555,7 @@
         "id": 86,
         "data": "2026-09-12",
         "descricao": "2C Engenharia (físico)",
-        "categoria": "Mão de Obra",
+        "categoria": "Construtor",
         "valor": -10000.00,
         "tipo": "Débito",
         "saldo": 169247.96,
@@ -1647,6 +1647,74 @@
                 "id": 3,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/-kd9a0s9kd-as9.pdf"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "data": "2026-09-29",
+        "descricao": "2C Engenharia",
+        "categoria": "Construtor",
+        "valor": -20000.00,
+        "tipo": "Débito",
+        "saldo": 143983.05,
+        "anexos": [            
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/Jefferson8dhas68.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-09-29 at 16.31.30.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "data": "2026-09-29",
+        "descricao": "Cimento na Casa do Cimento - 500 sacos",
+        "categoria": "Material",
+        "valor": -18500.00,
+        "tipo": "Débito",
+        "saldo": 125483.05,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Pedido",
+                "url": "/anexos/Orçamento Jefferson Paulo.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante",
+                "url": "/anexos/WhatsApp Image 2026-09-30 at 10.41.44.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "data": "2026-09-30",
+        "descricao": "L&E Material de Construção",
+        "categoria": "Material",
+        "valor": -1759.31,
+        "tipo": "Débito",
+        "saldo": 123723.74,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Pedido",
+                "url": "/anexos/WhatsApp Image 2026-09-30 at 13.48.32.png"
+            },
+            {
+                "id": 2,
+                "nome": "Dados de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-09-30 at 13.48.33.png"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante",
+                "url": "/anexos/WhatsApp Image 2026-09-30 at 14.04.36.jpeg"
             }
         ]
     }
