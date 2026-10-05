@@ -601,7 +601,9 @@ function init(DATA) {
 
       console.log(builderExpenses)
       const prcbuilderExpenses = document.getElementById("prc-construtor")
-      prcbuilderExpenses.textContent = ` (${builderExpenses / (2650 * 165)}%)`
+      prcbuilderExpenses.textContent = ` (${(builderExpenses / (2650 * 165)).toLocaleString('pt-BR', {
+            maximumFractionDigits: 1
+          })}%)`
 
     els.extraExpenses.textContent =
       fmtBRL.format(extraExpenses);
