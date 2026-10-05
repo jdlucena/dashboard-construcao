@@ -599,6 +599,10 @@ function init(DATA) {
       MURO -
       extraExpenses;
 
+      console.log(builderExpenses)
+      const prcbuilderExpenses = document.getElementById("prc-construtor")
+      prcbuilderExpenses.textContent = ` (${builderExpenses / (2650 * 165)}%)`
+
     els.extraExpenses.textContent =
       fmtBRL.format(extraExpenses);
 
@@ -695,11 +699,6 @@ function init(DATA) {
         ? `${fmtDate(rows[0].data)} a ${fmtDate(rows.at(-1).data)}`
         : '';
   }
-
-  console.log(builderExpenses)
-  const prcbuilderExpenses = document.getElementById("prc-construtor")
-  prcbuilderExpenses.textContent = ` (${(2650 * 165) / 423423}%))`
-  console.log((2650 * 165) / 423423)
 
   function openAttachments(id) {
     const movement =
