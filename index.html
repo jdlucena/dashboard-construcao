@@ -696,7 +696,10 @@ function init(DATA) {
         : '';
   }
 
-  document.getElementById("prc-construtor").textContent = `(${(2650 * 165) * builderExpenses}%))`
+  console.log(builderExpenses)
+  const prcbuilderExpenses = document.getElementById("prc-construtor")
+  prcbuilderExpenses.textContent = ` (${(2650 * 165) / 423423}%))`
+  console.log((2650 * 165) / 423423)
 
   function openAttachments(id) {
     const movement =
