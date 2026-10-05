@@ -78,7 +78,7 @@
       <div class="insight"><span class="small">Maior despesa individual</span><strong id="topExpense">—</strong></div>
       <div class="insight"><span class="small">Aportes consumidos por gastos</span><strong id="consumedPct">—</strong><div class="progress"><span id="consumedBar"></span></div></div>
       <div class="insight"><span class="small">Gastos Extras</span><strong id="extraExpenses">—</strong><span class="small">Débitos com * na descrição</span></div>
-      <div class="insight"><span class="small">Gastos Construtor</span><strong id="builderExpenses">—</strong><span class="small">Total gasto − Muro − Gastos Extras</span></div>
+      <div class="insight"><span class="small">Gastos Construtor</span><small id="prc-construtor">(0%)</small><strong id="builderExpenses">—</strong><span class="small">Total gasto − Muro − Gastos Extras</span></div>
     </div></article>
     <article class="panel"><div class="panel-head"><div><div class="panel-title">Maiores despesas</div><div class="panel-subtitle">Ranking das cinco maiores saídas</div></div></div><div class="rank-list" id="ranking"></div></article>
   </section>
@@ -163,6 +163,7 @@ function init(DATA) {
       'consumedBar',
       'extraExpenses',
       'builderExpenses',
+      'prcbuilderExpenses',
       'ranking',
       'attachmentsModal',
       'attachmentsModalSubtitle',
@@ -694,6 +695,8 @@ function init(DATA) {
         ? `${fmtDate(rows[0].data)} a ${fmtDate(rows.at(-1).data)}`
         : '';
   }
+
+  document.getElementById("prc-construtor").textContent = `(${(2650 * 165) * builderExpenses}%))`
 
   function openAttachments(id) {
     const movement =
