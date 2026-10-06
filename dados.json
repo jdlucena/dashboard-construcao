@@ -1135,7 +1135,7 @@
         "id": 62,
         "data": "2026-08-03",
         "descricao": "Telas das Esquadrias*",
-        "categoria": "Material",
+        "categoria": "Esquadrias",
         "valor": -7500.00,
         "tipo": "Débito",
         "saldo": 151437.95,
@@ -1727,5 +1727,57 @@
         "tipo": "Crédito",
         "saldo": 125323.46,
         "anexos": []
+    },
+    {
+        "id": 95,
+        "data": "2026-10-06",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -210.92,
+        "tipo": "Débito",
+        "saldo": 125112.54,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/24260944944974000107550110000892911370679790-nfe.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto_303737.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento21092.pdf"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "data": "2026-10-06",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -102.85,
+        "tipo": "Débito",
+        "saldo": 125009.69,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/24260944944974000107550110000900231409687294-nfe.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto_306779.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento10285.pdf"
+            }
+        ]
     }
 ]
