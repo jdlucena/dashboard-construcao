@@ -1789,5 +1789,46 @@
         "tipo": "Crédito",
         "saldo": 133009.69,
         "anexos": []
+    },
+    {
+        "id": 98,
+        "data": "2026-10-08",
+        "descricao": "Cicero Germano Alves",
+        "categoria": "Mão de Obra",
+        "valor": -2500.00,
+        "tipo": "Débito",
+        "saldo": 130509.69,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/GERMANO ALVES081026.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-10-08 at 13.39.00.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "data": "2026-10-08",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 15000,
+        "tipo": "Crédito",
+        "saldo": 145509.69,
+        "anexos": []
+    },
+    {
+        "id": 100,
+        "data": "2026-10-08",
+        "descricao": "Resgate Ações - BBDC3 e ABCB4",
+        "categoria": "Aporte",
+        "valor": 18934.61,
+        "tipo": "Crédito",
+        "saldo": 164444.30,
+        "anexos": []
     }
 ]
