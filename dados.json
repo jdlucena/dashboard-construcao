@@ -1510,9 +1510,9 @@
         "data": "2026-09-04",
         "descricao": "Aporte Mensal",
         "categoria": "Aporte",
-        "valor": 10000.00,
+        "valor": 12000.00,
         "tipo": "Crédito",
-        "saldo": 173818.19,
+        "saldo": 175818.19,
         "anexos": []
     },
     {
@@ -1522,7 +1522,7 @@
         "categoria": "Material",
         "valor": -570.23,
         "tipo": "Débito",
-        "saldo": 173247.96,
+        "saldo": 175247.96,
         "anexos": [
             {
                 "id": 1,
@@ -1548,7 +1548,7 @@
         "categoria": "Aporte",
         "valor": 6000.00,
         "tipo": "Crédito",
-        "saldo": 179247.96,
+        "saldo": 181247.96,
         "anexos": []
     },
     {
@@ -1558,7 +1558,7 @@
         "categoria": "Construtor",
         "valor": -10000.00,
         "tipo": "Débito",
-        "saldo": 169247.96,
+        "saldo": 171247.96,
         "anexos": [            
             {
                 "id": 1,
@@ -1574,7 +1574,7 @@
         "categoria": "Esquadrias",
         "valor": -10000.00,
         "tipo": "Débito",
-        "saldo": 159247.96,
+        "saldo": 161247.96,
         "anexos": [
             {
                 "id": 1,
@@ -1595,7 +1595,7 @@
         "categoria": "Aporte",
         "valor": 5000.00,
         "tipo": "Crédito",
-        "saldo": 164247.96,
+        "saldo": 166247.96,
         "anexos": []
     },
     {
@@ -1605,7 +1605,7 @@
         "categoria": "Material",
         "valor": -158.93,
         "tipo": "Débito",
-        "saldo": 164089.03,
+        "saldo": 166089.03,
         "anexos": [
             {
                 "id": 1,
@@ -1631,7 +1631,7 @@
         "categoria": "Material",
         "valor": -105.98,
         "tipo": "Débito",
-        "saldo": 163983.05,
+        "saldo": 165983.05,
         "anexos": [
             {
                 "id": 1,
@@ -1657,7 +1657,7 @@
         "categoria": "Construtor",
         "valor": -20000.00,
         "tipo": "Débito",
-        "saldo": 143983.05,
+        "saldo": 145983.05,
         "anexos": [            
             {
                 "id": 1,
@@ -1678,7 +1678,7 @@
         "categoria": "Material",
         "valor": -18500.00,
         "tipo": "Débito",
-        "saldo": 125483.05,
+        "saldo": 127483.05,
         "anexos": [
             {
                 "id": 1,
@@ -1699,7 +1699,7 @@
         "categoria": "Material",
         "valor": -1759.31,
         "tipo": "Débito",
-        "saldo": 123723.74,
+        "saldo": 125723.74,
         "anexos": [
             {
                 "id": 1,
@@ -1725,7 +1725,7 @@
         "categoria": "Rendimentos",
         "valor": 1599.72,
         "tipo": "Crédito",
-        "saldo": 125323.46,
+        "saldo": 127323.46,
         "anexos": []
     },
     {
@@ -1735,7 +1735,7 @@
         "categoria": "Material",
         "valor": -210.92,
         "tipo": "Débito",
-        "saldo": 125112.54,
+        "saldo": 127112.54,
         "anexos": [
             {
                 "id": 1,
@@ -1761,7 +1761,7 @@
         "categoria": "Material",
         "valor": -102.85,
         "tipo": "Débito",
-        "saldo": 125009.69,
+        "saldo": 127009.69,
         "anexos": [
             {
                 "id": 1,
@@ -1779,5 +1779,15 @@
                 "url": "/anexos/ComprovantePagamento10285.pdf"
             }
         ]
+    },
+    {
+        "id": 97,
+        "data": "2026-10-07",
+        "descricao": "Aporte Priscilla (bônus)",
+        "categoria": "Aporte",
+        "valor": 6000,
+        "tipo": "Crédito",
+        "saldo": 133009.69,
+        "anexos": []
     }
 ]
