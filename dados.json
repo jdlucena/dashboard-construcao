@@ -1830,5 +1830,31 @@
         "tipo": "Crédito",
         "saldo": 164444.30,
         "anexos": []
+    },
+    {
+        "id": 101,
+        "data": "2026-10-13",
+        "descricao": "JG Materiais de Construção",
+        "categoria": "Material",
+        "valor": -1559.00,
+        "tipo": "Débito",
+        "saldo": 162885.30,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/DANFE de NF-e numero 000.000.739-JG.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto_00037649460000000839.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento1559.pdf"
+            }
+        ]
     }
 ]
