@@ -1816,9 +1816,9 @@
         "data": "2026-10-08",
         "descricao": "Aporte Mensal",
         "categoria": "Aporte",
-        "valor": 15000,
+        "valor": 13000,
         "tipo": "Crédito",
-        "saldo": 145509.69,
+        "saldo": 143509.69,
         "anexos": []
     },
     {
@@ -1828,7 +1828,7 @@
         "categoria": "Aporte",
         "valor": 18934.61,
         "tipo": "Crédito",
-        "saldo": 164444.30,
+        "saldo": 162444.30,
         "anexos": []
     },
     {
@@ -1838,7 +1838,7 @@
         "categoria": "Material",
         "valor": -1559.00,
         "tipo": "Débito",
-        "saldo": 162885.30,
+        "saldo": 160885.30,
         "anexos": [
             {
                 "id": 1,
@@ -1864,7 +1864,7 @@
         "categoria": "Mão de Obra",
         "valor": -250.00,
         "tipo": "Débito",
-        "saldo": 162635.30,
+        "saldo": 160635.30,
         "anexos": [
             {
                 "id": 1,
