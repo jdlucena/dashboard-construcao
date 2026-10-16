@@ -1877,5 +1877,26 @@
                 "url": "/anexos/WhatsApp Image 2026-10-13 at 15.30.35.jpeg"
             }
         ]
+    },
+    {
+        "id": 103,
+        "data": "2026-10-16",
+        "descricao": "Brita",
+        "categoria": "Material",
+        "valor": -4760.00,
+        "tipo": "Débito",
+        "saldo": 155875.30,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Pedido",
+                "url": "/anexos/WhatsApp Image 2026-10-16 at 10.16.40.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-10-16 at 10.44.46.jpeg"
+            }
+        ]
     }
 ]
