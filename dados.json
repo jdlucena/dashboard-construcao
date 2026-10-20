@@ -43,7 +43,7 @@
     {
         "id": 4,
         "data": "2026-04-06",
-        "descricao": "Compra de Piso Elizabeth",
+        "descricao": "Compra de Revestimento Elizabeth",
         "categoria": "Material",
         "valor": -13162.76,
         "tipo": "Débito",
@@ -178,7 +178,7 @@
     {
         "id": 12,
         "data": "2026-05-07",
-        "descricao": "Frete Piso Elizabeth",
+        "descricao": "Frete Revestimento Elizabeth",
         "categoria": "Frete",
         "valor": -2045.00,
         "tipo": "Débito",
@@ -1896,6 +1896,79 @@
                 "id": 2,
                 "nome": "Comprovante de Pagamento",
                 "url": "/anexos/WhatsApp Image 2026-10-16 at 10.44.46.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "data": "2026-10-19",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -148.29,
+        "tipo": "Débito",
+        "saldo": 155727.01,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/NF92050.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto92050.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento148.pdf"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "data": "2026-10-19",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -320.46,
+        "tipo": "Débito",
+        "saldo": 155406.55,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/NF93617.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Boleto",
+                "url": "/anexos/boleto93617.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/Comprovante320.pdf"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "data": "2026-10-19",
+        "descricao": "Revestimento Cor e Piso*",
+        "categoria": "Material",
+        "valor": -3950.00,
+        "tipo": "Débito",
+        "saldo": 151456.55,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Documento de Venda",
+                "url": "/anexos/RABAT.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-10-19 at 13.01.13.jpeg"
             }
         ]
     }
