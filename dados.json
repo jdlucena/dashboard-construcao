@@ -1992,5 +1992,15 @@
                 "url": "/anexos/WhatsApp Image 2026-10-21 at 15.49.41.jpeg"
             }
         ]
+    },
+    {
+        "id": 108,
+        "data": "2026-10-22",
+        "descricao": "Aporte Priscilla",
+        "categoria": "Aporte",
+        "valor": 5000,
+        "tipo": "Crédito",
+        "saldo": 136456.55,
+        "anexos": []
     }
 ]
