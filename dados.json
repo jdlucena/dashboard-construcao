@@ -2002,5 +2002,26 @@
         "tipo": "Crédito",
         "saldo": 136456.55,
         "anexos": []
+    },
+    {
+        "id": 109,
+        "data": "2026-10-22",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -1797.00,
+        "tipo": "Débito",
+        "saldo": 134659.55,
+        "anexos": [            
+            {
+                "id": 1,
+                "nome": "Pedido",
+                "url": "/anexos/344205_JEFFERSON PAULO DANTAS DE LUCENA.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-10-22 at 16.44.14.jpeg"
+            }
+        ]
     }
 ]
