@@ -2023,5 +2023,15 @@
                 "url": "/anexos/WhatsApp Image 2026-10-22 at 16.44.14.jpeg"
             }
         ]
+    },
+    {
+        "id": 110,
+        "data": "2026-11-01",
+        "descricao": "Rendimentos 100% CDI",
+        "categoria": "Rendimentos",
+        "valor": 1142.76,
+        "tipo": "Crédito",
+        "saldo": 137599.31,
+        "anexos": []
     }
 ]
