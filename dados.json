@@ -2031,7 +2031,69 @@
         "categoria": "Rendimentos",
         "valor": 1142.76,
         "tipo": "Crédito",
-        "saldo": 137599.31,
+        "saldo": 135802.31,
+        "anexos": []
+    },
+    {
+        "id": 111,
+        "data": "2026-11-05",
+        "descricao": "Aporte Mensal",
+        "categoria": "Aporte",
+        "valor": 11000,
+        "tipo": "Crédito",
+        "saldo": 146802.31,
+        "anexos": []
+    },
+    {
+        "id": 112,
+        "data": "2026-11-05",
+        "descricao": "Aluguel da Casa em Macaíba",
+        "categoria": "Mão de Obra",
+        "valor": -250.00,
+        "tipo": "Débito",
+        "saldo": 146552.31,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Conversa",
+                "url": "/anexos/Captura de tela 2026-11-06 092352.png"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-11-05 at 16.22.55.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "data": "2026-11-05",
+        "descricao": "Cicero Germano Alves",
+        "categoria": "Mão de Obra",
+        "valor": -2500.00,
+        "tipo": "Débito",
+        "saldo": 144052.31,
+        "anexos": [
+            {
+                "id": 1,
+                "nome": "Recibo",
+                "url": "/anexos/WhatsApp Image 2026-11-05 at 16.28.48.jpeg"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/WhatsApp Image 2026-11-05 at 17.06.58.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "data": "2026-11-06",
+        "descricao": "Resgate Ações - SAPR4",
+        "categoria": "Aporte",
+        "valor": 20260.84,
+        "tipo": "Crédito",
+        "saldo": 164313.15,
         "anexos": []
     }
 ]
