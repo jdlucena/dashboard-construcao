@@ -2095,5 +2095,52 @@
         "tipo": "Crédito",
         "saldo": 164313.15,
         "anexos": []
+    },
+    {
+        "id": 114,
+        "data": "2026-11-11",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -145.13,
+        "tipo": "Débito",
+        "saldo": 164168.02,
+        "anexos": [            
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "/anexos/boleto97043.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/ComprovantePagamento14513.pdf"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "data": "2026-11-11",
+        "descricao": "Materiais Diversos da Casa Tem Home",
+        "categoria": "Material",
+        "valor": -138.36,
+        "tipo": "Débito",
+        "saldo": 164029.66,
+        "anexos": [            
+            {
+                "id": 1,
+                "nome": "Boleto",
+                "url": "/anexos/Comprovante138.pdf"
+            },
+            {
+                "id": 2,
+                "nome": "Nota Fiscal",
+                "url": "/anexos/NF97725.pdf"
+            },
+            {
+                "id": 3,
+                "nome": "Comprovante de Pagamento",
+                "url": "/anexos/boleto97725.pdf"
+            }
+        ]
     }
 ]
