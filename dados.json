@@ -2142,5 +2142,25 @@
                 "url": "/anexos/boleto97725.pdf"
             }
         ]
+    },
+    {
+        "id": 116,
+        "data": "2026-11-12",
+        "descricao": "Aporte Priscilla (bônus)",
+        "categoria": "Aporte",
+        "valor": 6000,
+        "tipo": "Crédito",
+        "saldo": 170029.66,
+        "anexos": []
+    },
+    {
+        "id": 117,
+        "data": "2026-11-12",
+        "descricao": "2C Engenharia (físico)",
+        "categoria": "Construtor",
+        "valor": -13000.00,
+        "tipo": "Débito",
+        "saldo": 157029.66,
+        "anexos": []
     }
 ]
