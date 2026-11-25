@@ -2087,7 +2087,7 @@
         ]
     },
     {
-        "id": 113,
+        "id": 114,
         "data": "2026-11-06",
         "descricao": "Resgate Ações - SAPR4",
         "categoria": "Aporte",
@@ -2097,7 +2097,7 @@
         "anexos": []
     },
     {
-        "id": 114,
+        "id": 115,
         "data": "2026-11-11",
         "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
@@ -2118,7 +2118,7 @@
         ]
     },
     {
-        "id": 115,
+        "id": 116,
         "data": "2026-11-11",
         "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
@@ -2144,7 +2144,7 @@
         ]
     },
     {
-        "id": 116,
+        "id": 117,
         "data": "2026-11-12",
         "descricao": "Aporte Priscilla (bônus)",
         "categoria": "Aporte",
@@ -2154,7 +2154,7 @@
         "anexos": []
     },
     {
-        "id": 117,
+        "id": 118,
         "data": "2026-11-12",
         "descricao": "2C Engenharia (físico)",
         "categoria": "Construtor",
@@ -2170,7 +2170,7 @@
         ]
     },
     {
-        "id": 118,
+        "id": 119,
         "data": "2026-11-11",
         "descricao": "Materiais Diversos da Casa Tem Home",
         "categoria": "Material",
@@ -2194,5 +2194,15 @@
                 "url": "/anexos/ComprovantePagamento249.pdf"
             }
         ]
+    },
+    {
+        "id": 120,
+        "data": "2026-11-23",
+        "descricao": "Aporte Priscilla",
+        "categoria": "Aporte",
+        "valor": 5000,
+        "tipo": "Crédito",
+        "saldo": 161780.23,
+        "anexos": []
     }
 ]
